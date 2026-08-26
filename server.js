@@ -389,7 +389,6 @@ async function postQuiz(adminChatId, category, count) {
       const q = candidateDocs[i];
       const rawQ = q.question_text || q.question || "";
       const formattedQ = formatMarkdownTable(rawQ).trim();
-      const hasTableOrMultiline = formattedQ.includes('\n') || formattedQ.includes('➔') || formattedQ.length > 120;
 
       const rawOpts = q.options || [];
       const cleanOptions = (rawOpts.length >= 2 ? rawOpts : ["Option A", "Option B", "Option C", "Option D"])
@@ -399,37 +398,18 @@ async function postQuiz(adminChatId, category, count) {
       const rawExpl = q.explanation || "";
       const cleanExplanation = rawExpl.trim().length > 0 ? formatMarkdownTable(rawExpl).trim().substring(0, 195) : undefined;
 
-      if (hasTableOrMultiline) {
-        const messageText = `📝 <b>प्रश्न #${i + 1}:</b>\n\n${formattedQ}\n\n👇 <b>सही विकल्प / कूट का चयन करें:</b>`;
-        await callTelegram('sendMessage', { chat_id: TELEGRAM_CHANNEL_ID, text: messageText, parse_mode: 'HTML' });
-        await new Promise(r => setTimeout(r, 800));
+      const pollData = {
+        chat_id: TELEGRAM_CHANNEL_ID,
+        question: formattedQ.substring(0, 295),
+        options: cleanOptions,
+        type: "quiz",
+        correct_option_id: correctOptId,
+        is_anonymous: true
+      };
+      if (cleanExplanation) pollData.explanation = cleanExplanation;
 
-        const pollData = {
-          chat_id: TELEGRAM_CHANNEL_ID,
-          question: `प्रश्न #${i + 1} का सही उत्तर चुनें:`,
-          options: cleanOptions,
-          type: "quiz",
-          correct_option_id: correctOptId,
-          is_anonymous: true
-        };
-        if (cleanExplanation) pollData.explanation = cleanExplanation;
-
-        const res = await callTelegram('sendPoll', pollData);
-        if (res.ok) postedIds.push(q.id);
-      } else {
-        const pollData = {
-          chat_id: TELEGRAM_CHANNEL_ID,
-          question: formattedQ.substring(0, 295),
-          options: cleanOptions,
-          type: "quiz",
-          correct_option_id: correctOptId,
-          is_anonymous: true
-        };
-        if (cleanExplanation) pollData.explanation = cleanExplanation;
-
-        const res = await callTelegram('sendPoll', pollData);
-        if (res.ok) postedIds.push(q.id);
-      }
+      const res = await callTelegram('sendPoll', pollData);
+      if (res.ok) postedIds.push(q.id);
 
       await new Promise(r => setTimeout(r, 1500));
     }
