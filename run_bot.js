@@ -497,8 +497,6 @@ async function postQuiz(adminChatId, category, count) {
     for (let i = 0; i < candidateDocs.length; i++) {
       const q = candidateDocs[i];
       const formattedQ = (q.question_text || "").trim();
-      const hasTableOrMultiline = formattedQ.includes('\n') || formattedQ.includes('➔') || formattedQ.length > 120;
-
       // Clean options (Telegram limit: max 98 chars per option)
       const cleanOptions = (q.options && q.options.length >= 2 ? q.options : ["Option A", "Option B", "Option C", "Option D"])
         .map(opt => String(opt).trim().substring(0, 98));
@@ -508,52 +506,21 @@ async function postQuiz(adminChatId, category, count) {
         ? q.explanation.trim().substring(0, 195)
         : undefined;
 
-      if (hasTableOrMultiline) {
-        // Step 1: Send formatted question text with complete line breaks and arrows
-        const messageText = `📝 <b>प्रश्न #${i + 1}:</b>\n\n${formattedQ}\n\n👇 <b>सही विकल्प / कूट का चयन करें:</b>`;
-        await callTelegram('sendMessage', {
-          chat_id: TELEGRAM_CHANNEL_ID,
-          text: messageText,
-          parse_mode: 'HTML'
-        });
+      const pollData = {
+        chat_id: TELEGRAM_CHANNEL_ID,
+        question: formattedQ.substring(0, 295),
+        options: cleanOptions,
+        type: "quiz",
+        correct_option_id: correctOptId,
+        is_anonymous: true
+      };
+      if (cleanExplanation) pollData.explanation = cleanExplanation;
 
-        await new Promise(r => setTimeout(r, 800));
-
-        // Step 2: Send the Quiz Poll for voting
-        const pollData = {
-          chat_id: TELEGRAM_CHANNEL_ID,
-          question: `प्रश्न #${i + 1} का सही उत्तर चुनें:`,
-          options: cleanOptions,
-          type: "quiz",
-          correct_option_id: correctOptId,
-          is_anonymous: true
-        };
-        if (cleanExplanation) pollData.explanation = cleanExplanation;
-
-        const res = await callTelegram('sendPoll', pollData);
-        if (res.ok) {
-          await markQuestionAsUsed(q.fullName);
-        } else {
-          console.error("Failed to send poll:", res);
-        }
+      const res = await callTelegram('sendPoll', pollData);
+      if (res.ok) {
+        await markQuestionAsUsed(q.fullName);
       } else {
-        // Standard single-line question: send as direct poll
-        const pollData = {
-          chat_id: TELEGRAM_CHANNEL_ID,
-          question: formattedQ.substring(0, 295),
-          options: cleanOptions,
-          type: "quiz",
-          correct_option_id: correctOptId,
-          is_anonymous: true
-        };
-        if (cleanExplanation) pollData.explanation = cleanExplanation;
-
-        const res = await callTelegram('sendPoll', pollData);
-        if (res.ok) {
-          await markQuestionAsUsed(q.fullName);
-        } else {
-          console.error("Failed to send poll:", res);
-        }
+        console.error("Failed to send poll:", res);
       }
 
       // Small delay between questions
