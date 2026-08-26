@@ -155,7 +155,7 @@ async function markAsUsed(docIds) {
   const batch = db.batch();
   const now = admin.firestore.FieldValue.serverTimestamp();
   docIds.forEach(id => {
-    const ref = db.collection('questions').document(id);
+    const ref = db.collection('questions').doc(id);
     batch.update(ref, { is_used: true, posted_at: now });
   });
   await batch.commit();
