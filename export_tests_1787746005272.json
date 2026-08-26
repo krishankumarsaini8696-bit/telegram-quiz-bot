@@ -1,0 +1,1333 @@
+[
+  {
+    "examCategory": "Rajasthan Gk",
+    "stats": {
+      "averageScore": -10.79,
+      "totalScore": -53.94,
+      "highestScore": 79.38,
+      "totalAttempts": 5
+    },
+    "isLive": false,
+    "title": "राजस्थान के लोक देवता",
+    "mixQuestionsAcrossSubjects": false,
+    "category": "CET_ART& CULTURE ",
+    "totalMarks": 90,
+    "negativeMarking": 0.66,
+    "createdAt": {
+      "nanoseconds": 827000000,
+      "type": "firestore/timestamp/1.0",
+      "seconds": 1783439940
+    },
+    "duration": 3600,
+    "questions": [
+      {
+        "id": 1,
+        "options": {
+          "hindi": [
+            "तेजाजी — ददरेवा (चूरू)",
+            "हड़बूजी — बैंगटी (फलोदी)",
+            "देवनारायण जी — आसींद (भीलवाड़ा)",
+            "मल्लीनाथ जी — तिलवाड़ा (बालोतरा)"
+          ],
+          "english": [
+            "Teja ji — Dadrewa (Churu)",
+            "Hadbu ji — Bengti (Phalodi)",
+            "Devnarayan ji — Asind (Bhilwara)",
+            "Mallinath ji — Tilwara (Balotra)"
+          ]
+        },
+        "correctAnswer": "A",
+        "question": {
+          "english": "Which of the following pairs of Lok Devta and their main pilgrimage/worship site is INCORRECTLY matched?",
+          "hindi": "लोक देवता और उनके मुख्य तीर्थ/पूजा स्थल का निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?"
+        },
+        "subjectName": "General",
+        "explanation": {
+          "english": "### Explanation\nTeja ji is incorrectly matched with Dadrewa. \n\n* **Dadrewa** is the birthplace and a primary pilgrimage site of **Goga ji** (known as Shirsh Medi).\n* **Teja ji's** primary sites are located in Nagaur and Ajmer (e.g., Khadnal, Parbatsar, Sursura, Basi Dugari).\n* The rest (Hadbu ji - Bengti, Devnarayan ji - Asind, Mallinath ji - Tilwara) are perfectly matched.",
+          "hindi": "### व्याख्या\nतेजाजी का ददरेवा के साथ गलत मिलान किया गया है।\n\n* **ददरेवा** **गोगाजी** का जन्मस्थान और प्राथमिक तीर्थस्थल है (जिसे शीर्ष मेड़ी के नाम से जाना जाता है)।\n* **तेजाजी** के प्राथमिक स्थल नागौर और अजमेर में स्थित हैं (जैसे खड़नाल, परबतसर, सुरसुरा, बांसी दुगारी)।\n* शेष (हड़बूजी - बैंगटी, देवनारायण जी - आसींद, मल्लीनाथ जी - तिलवाड़ा) पूरी तरह से सुमेलित हैं।"
+        },
+        "subjectId": "general",
+        "subject": "General"
+      },
+      {
+        "subjectName": "General",
+        "subjectId": "general",
+        "subject": "General",
+        "question": {
+          "hindi": "किस लोक देवता के मेले में मुख्य रूप से 'रिखिया' समुदाय द्वारा 'नेजा' फहराने और 'जम्मा' जागरण का अनुष्ठान किया जाता है?",
+          "english": "In which Lok Devta's fair is the ritual of 'Neja' hosting and 'Jamma' vigil predominantly performed by the 'Rikhiya' community?"
+        },
+        "options": {
+          "hindi": [
+            "रामदेव जी",
+            "पाबूजी",
+            "मल्लीनाथ जी",
+            "गोगाजी"
+          ],
+          "english": [
+            "Ramdev ji",
+            "Pabuji",
+            "Mallinath ji",
+            "Goga ji"
+          ]
+        },
+        "id": 2,
+        "explanation": {
+          "english": "### Explanation\nThese distinct terms are all associated with **Baba Ramdev ji**.\n* **Neja:** His 5-colored sacred flag.\n* **Jamma:** The night vigil (Jagaran) held in his honor, especially on Dwitiya and Ekadashi.\n* **Rikhiya:** His devoted followers from the Meghwal community. Ramdev ji strongly advocated for the eradication of untouchability.",
+          "hindi": "### व्याख्या\nये विशिष्ट शब्द **बाबा रामदेव जी** से जुड़े हैं।\n* **नेजा:** उनका 5-रंग का पवित्र ध्वज।\n* **जम्मा:** उनके सम्मान में आयोजित रात्रि जागरण, विशेषकर द्वितीया और एकादशी को।\n* **रिखिया:** मेघवाल समुदाय के उनके भक्त अनुयायी। रामदेव जी ने छुआछूत मिटाने की पुरजोर वकालत की थी।"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "subjectName": "General",
+        "id": 3,
+        "question": {
+          "english": "Consider the following statements regarding Lok Devta Goga ji:\n1. His birthplace is Dadrewa, Churu.\n2. His fair is held on Bhadrapada Krishna Navami.\n3. A stone slab with a snake carved on it is usually placed under a Khejri tree as his 'Than' (shrine).\n4. The text 'Bitu Meha ke Ravale' describes his heroic deeds.\n5. His temple in Nohar is built in the shape of a mosque (Makbaranuma).\n\nWhich of the above statements are correct?",
+          "hindi": "लोक देवता गोगाजी के संबंध में निम्नलिखित कथनों पर विचार करें:\n1. उनका जन्मस्थान ददरेवा, चूरू है।\n2. उनका मेला भाद्रपद कृष्ण नवमी को लगता है।\n3. उनके 'थान' (मंदिर) के रूप में आमतौर पर खेजड़ी के पेड़ के नीचे सांप उकेरा हुआ एक पत्थर रखा जाता है।\n4. ग्रंथ 'बीठू मेहा के रावले' में उनकी वीरता के कार्यों का वर्णन है।\n5. नोहर में उनका मंदिर एक मस्जिद (मकबरानुमा) के आकार में बना है।\n\nउपरोक्त में से कौन से कथन सही हैं?"
+        },
+        "options": {
+          "english": [
+            "1, 2, 3, 4, and 5",
+            "1, 2, 3, and 5",
+            "2, 3, 4, and 5",
+            "1, 3, and 4"
+          ],
+          "hindi": [
+            "1, 2, 3, 4 और 5",
+            "1, 2, 3 और 5",
+            "2, 3, 4 और 5",
+            "1, 3 और 4"
+          ]
+        },
+        "correctAnswer": "A",
+        "subjectId": "general",
+        "subject": "General",
+        "explanation": {
+          "hindi": "### व्याख्या\nगोगाजी के संबंध में सभी पांचों कथन तथ्यात्मक रूप से सही हैं।\n\n* **जन्म:** ददरेवा (चूरू) - जिसे शीर्ष मेड़ी के रूप में जाना जाता है।\n* **त्यौहार:** गोगा नवमी भाद्रपद कृष्ण नवमी को आती है।\n* **थान:** एक प्रसिद्ध कहावत है \"गाँव-गाँव खेजड़ी, गाँव-गाँव गोगो\" जो खेजड़ी के पेड़ों के नीचे उनके थान को दर्शाती है।\n* **साहित्य:** बीठू मेहा के 'रावले' में महमूद गजनवी के साथ उनके युद्ध का विवरण है।\n* **मंदिर वास्तुकला:** नोहर, हनुमानगढ़ में धुर मेड़ी शुरू में मकबरानुमा आकार में बनाई गई थी जिस पर 'बिस्मिल्लाह' अंकित है, जो इस्लामी श्रद्धा को भी दर्शाता है।",
+          "english": "### Explanation\nAll five statements regarding Goga ji are factually correct.\n\n* **Birth:** Dadrewa (Churu) - known as Shirsh Medi.\n* **Festival:** Goga Navami falls on Bhadrapada Krishna Navami.\n* **Shrines:** There is a famous proverb \"Gaon-Gaon Khejdi, Gaon-Gaon Gogo\" reflecting his shrines under Khejri trees.\n* **Literature:** Bitu Meha's 'Ravale' details his battle with Mahmud Ghaznavi.\n* **Temple Architecture:** The Dhur Medi at Nohar, Hanumangarh, was initially constructed with a Makbaranuma (tomb-like) shape with 'Bismillah' inscribed, reflecting Islamic reverence."
+        }
+      },
+      {
+        "options": {
+          "english": [
+            "A-4, B-1, C-2, D-3",
+            "A-2, B-3, C-1, D-4",
+            "A-2, B-1, C-3, D-4",
+            "A-1, B-2, C-4, D-3"
+          ],
+          "hindi": [
+            "A-4, B-1, C-2, D-3",
+            "A-2, B-3, C-1, D-4",
+            "A-2, B-1, C-3, D-4",
+            "A-1, B-2, C-4, D-3"
+          ]
+        },
+        "explanation": {
+          "english": "### Explanation\nThe correct matching of deities and their associations:\n* **Kaila Devi (A):** Kuldevi of the **Yaduvanshi (Jadon) (2)** dynasty of Karauli.\n* **Swangiya Mata (B):** Represented by the **Sugan Chidi (Palem bird) (1)** on the Jaisalmer state emblem.\n* **Khetrapal (C):** Universally worshipped in Rajasthan as a **Gram Devta (3)** (Village protector).\n* **Bhuria Baba (D):** Also known as **Gautameshwar Mahadev (4)**, primarily worshipped by the Meena community of Godwad.",
+          "hindi": "### व्याख्या\nदेवताओं और उनके संबंधों का सही मिलान:\n* **कैला देवी (A):** करौली के **यदुवंशी (जादौन) (2)** राजवंश की कुलदेवी।\n* **स्वांगिया माता (B):** जैसलमेर के राज्य चिह्न पर **सुगन चिड़ी (पालम पक्षी) (1)** द्वारा दर्शाई गई हैं।\n* **क्षेत्रपाल (C):** राजस्थान में सार्वभौमिक रूप से **ग्राम देवता (3)** (गाँव के रक्षक) के रूप में पूजे जाते हैं।\n* **भूरिया बाबा (D):** इन्हें **गौतमेश्वर महादेव (4)** के नाम से भी जाना जाता है, जिन्हें मुख्य रूप से गोडवाड़ के मीणा समुदाय द्वारा पूजा जाता है।"
+        },
+        "subjectName": "General",
+        "id": 4,
+        "correctAnswer": "C",
+        "question": {
+          "english": "Match List-I (Lok Devis) with List-II (Specific Association):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Kaila Devi | (1) Sugan Chidi (Palem) |\n| (B) Swangiya Mata | (2) Yaduvanshi (Jadon) Clan |\n| (C) Khetrapal | (3) Gram Devta |\n| (D) Bhuria Baba | (4) Gautameshwar Mahadev |\n\nChoose the correct code:",
+          "hindi": "सूची-I (लोक देवियां/देवता) का सूची-II (विशिष्ट संबंध) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) कैला देवी | (1) सुगन चिड़ी (पालम) |\n| (B) स्वांगिया माता | (2) यदुवंशी (जादौन) कुल |\n| (C) क्षेत्रपाल | (3) ग्राम देवता |\n| (D) भूरिया बाबा | (4) गौतमेश्वर महादेव |\n\nसही कूट का चयन करें:"
+        },
+        "subject": "General",
+        "subjectId": "general"
+      },
+      {
+        "explanation": {
+          "hindi": "### व्याख्या\nगोगाजी राठौड़ **नहीं** थे।\n\n* **गोगाजी** **नागवंशीय चौहान राजपूत** वंश से संबंधित थे। उनके पिता का नाम जेवर सिंह चौहान था।\n* **हड़बूजी** सांखला राजपूत वंश के थे।\n* **तेजाजी** जाट समुदाय के धोलिया गोत्र से थे।\n* **पाबूजी** मारवाड़ के राठौड़ राजपूत राजवंश के थे।",
+          "english": "### Explanation\nGoga ji was **not** a Rathore. \n\n* **Goga ji** belonged to the **Nagvanshiya Chauhan Rajput** clan. His father's name was Jevar Singh Chauhan.\n* **Hadbu ji** belonged to the Sankhla Rajput clan.\n* **Teja ji** belonged to the Dholiya gotra of the Jat community.\n* **Pabuji** belonged to the Rathore Rajput dynasty of Marwar."
+        },
+        "options": {
+          "english": [
+            "Goga ji — Rathore Rajput",
+            "Pabuji — Rathore Rajput",
+            "Hadbu ji — Sankhla Rajput",
+            "Teja ji — Dholiya Jat"
+          ],
+          "hindi": [
+            "गोगाजी — राठौड़ राजपूत",
+            "पाबूजी — राठौड़ राजपूत",
+            "हड़बूजी — सांखला राजपूत",
+            "तेजाजी — धोलिया जाट"
+          ]
+        },
+        "subjectId": "general",
+        "id": 5,
+        "question": {
+          "english": "Which of the following pairs of Lok Devta and their clan/caste is INCORRECTLY matched?",
+          "hindi": "लोक देवता और उनके वंश/जाति का निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?"
+        },
+        "subject": "General",
+        "correctAnswer": "A",
+        "subjectName": "General"
+      },
+      {
+        "id": 6,
+        "subject": "General",
+        "subjectName": "General",
+        "explanation": {
+          "hindi": "### व्याख्या\nग्रंथ **'बीठू मेहा के रावले'** **गोगाजी** की अपार वीरता का स्पष्ट वर्णन करता है।\n* यह महमूद गजनवी और उनके मौसेरे भाइयों अर्जन-सुर्जन के खिलाफ उनके भयंकर युद्ध का वर्णन करता है, जो मुख्य रूप से गायों की रक्षा के लिए लड़ा गया था।\n* इसी लड़ाई में उनकी वीरता को देखकर, गजनवी ने उन्हें 'जाहर पीर' घोषित किया था।",
+          "english": "### Explanation\nThe text **'Bitu Meha ke Ravale'** vividly describes the immense bravery of **Goga ji**.\n* It recounts his fierce battle against Mahmud Ghaznavi and his cousins Arjan-Surjan, fought primarily to protect cows.\n* Witnessing his valor in this very battle, Ghaznavi proclaimed him 'Jahar Pir'."
+        },
+        "options": {
+          "english": [
+            "Goga ji",
+            "Veer Kalla ji",
+            "Teja ji",
+            "Pabuji"
+          ],
+          "hindi": [
+            "गोगाजी",
+            "वीर कल्लाजी",
+            "तेजाजी",
+            "पाबूजी"
+          ]
+        },
+        "subjectId": "general",
+        "question": {
+          "english": "The famous literary text 'Bitu Meha ke Ravale' describes the heroic battle between which Lok Devta and a foreign invader?",
+          "hindi": "प्रसिद्ध साहित्यिक ग्रंथ 'बीठू मेहा के रावले' किस लोक देवता और एक विदेशी आक्रमणकारी के बीच हुए वीर युद्ध का वर्णन करता है?"
+        },
+        "correctAnswer": "A"
+      },
+      {
+        "correctAnswer": "A",
+        "subject": "General",
+        "id": 7,
+        "subjectName": "General",
+        "subjectId": "general",
+        "explanation": {
+          "english": "### Explanation\nBoth facts are independently true, but the Reason does NOT explain the Assertion.\n* **Assertion:** Pabuji's Phad is indeed very popular, historically sung by Bhopas using Ravanhattha, especially when camels fall ill.\n* **Reason:** It is true that Pabuji is one of the Panch Pirs and gave shelter to 7 Thori brothers (Chanda, Dema, etc.) elevating their social status. However, this act of social justice is not the direct reason why his Phad is recited using Ravanhattha.",
+          "hindi": "### व्याख्या\nदोनों तथ्य स्वतंत्र रूप से सत्य हैं, लेकिन कारण कथन की व्याख्या नहीं करता है।\n* **कथन:** पाबूजी की फड़ वास्तव में बहुत लोकप्रिय है, ऐतिहासिक रूप से इसे भोपाओं द्वारा रावणहत्था का उपयोग करके गाया जाता है, विशेषकर ऊंटों के बीमार पड़ने पर।\n* **कारण:** यह सच है कि पाबूजी पंच पीरों में से एक हैं और उन्होंने 7 थोरी भाइयों (चांदा, डेमा, आदि) को शरण देकर उनकी सामाजिक स्थिति को ऊपर उठाया था। हालाँकि, सामाजिक न्याय का यह कार्य उनकी फड़ को रावणहत्था के साथ गाए जाने का सीधा कारण नहीं है।"
+        },
+        "options": {
+          "hindi": [
+            "A और R दोनों सत्य हैं, लेकिन R, A की सही व्याख्या नहीं है।",
+            "A सत्य है, लेकिन R असत्य है।",
+            "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।",
+            "A असत्य है, लेकिन R सत्य है।"
+          ],
+          "english": [
+            "Both A and R are true, but R is NOT the correct explanation of A.",
+            "A is true, but R is false.",
+            "Both A and R are true, and R is the correct explanation of A.",
+            "A is false, but R is true."
+          ]
+        },
+        "question": {
+          "hindi": "**कथन (A):** पाबूजी की फड़ भोपा समुदाय के बीच अत्यधिक लोकप्रिय है और इसे रावणहत्था का उपयोग करके गाया जाता है।\n**कारण (R):** पाबूजी मारवाड़ के 'पंच पीरों' में शामिल हैं और उन्होंने अछूत थोरी भाइयों को शरण दी थी।\n\nसही उत्तर का चयन करें:",
+          "english": "**Assertion (A):** Pabuji's Phad is highly popular among the Bhopa community and is recited using the Ravanhattha.\n**Reason (R):** Pabuji is included among the 'Panch Pirs' of Marwar and provided asylum to the untouchable Thori brothers.\n\nSelect the correct answer:"
+        }
+      },
+      {
+        "subject": "General",
+        "subjectId": "general",
+        "explanation": {
+          "hindi": "### व्याख्या\nवीर तेजाजी का परबतसर मंदिर वास्तव में जोधपुर के **महाराजा अभय सिंह** द्वारा बनवाया गया था।\n* जब मारवाड़ के अधिकारी तेजाजी की मूर्ति को सुरसुरा से परबतसर लाए, तो महाराजा अभय सिंह ने मंदिर का निर्माण करवाया था।\n* **गलत विकल्प:** रुणिचा में रामदेव जी के मंदिर का जीर्णोद्धार बीकानेर के महाराजा गंगा सिंह ने करवाया था (खिलजी ने नहीं)। गोगाजी की धुर मेड़ी मूल रूप से मकबरानुमा (इस्लामी प्रभाव) थी। पाबूजी का मेला चैत्र अमावस्या को कोलमण्ड में बड़े उत्साह से लगता है।",
+          "english": "### Explanation\nThe Parbatsar temple of Veer Teja ji was indeed constructed by **Maharaja Abhay Singh** of Jodhpur.\n* When Marwar officials brought Teja ji's idol from Sursura to Parbatsar, Maharaja Abhay Singh sanctioned the temple.\n* **Incorrect Options:** Ramdev ji's temple in Runicha was renovated by Maharaja Ganga Singh of Bikaner (not Khilji). Goga ji's Dhur Medi was originally Makbaranuma (tomb-style, Islamic influence). Pabuji's fair is enthusiastically held in Kolumand on Chaitra Amavasya."
+        },
+        "correctAnswer": "B",
+        "question": {
+          "english": "Which of the following statements is CORRECT regarding the historical temples of Lok Devtas?",
+          "hindi": "लोक देवताओं के ऐतिहासिक मंदिरों के संबंध में निम्नलिखित में से कौन सा कथन सही है?"
+        },
+        "id": 8,
+        "subjectName": "General",
+        "options": {
+          "english": [
+            "Goga ji's Dhur Medi at Nohar was constructed purely in Rajputana architectural style.",
+            "The temple of Teja ji at Parbatsar was originally built by Maharaja Abhay Singh of Jodhpur.",
+            "The current structure of Ramdev ji's temple in Runicha was built by Alauddin Khilji.",
+            "Pabuji's main temple in Kolumand does not hold any fair throughout the year."
+          ],
+          "hindi": [
+            "नोहर में गोगाजी की धुर मेड़ी पूरी तरह से राजपूताना स्थापत्य शैली में बनाई गई थी।",
+            "परबतसर में तेजाजी का मंदिर मूल रूप से जोधपुर के महाराजा अभय सिंह द्वारा बनवाया गया था।",
+            "रुणिचा में रामदेव जी के मंदिर की वर्तमान संरचना अलाउद्दीन खिलजी द्वारा बनवाई गई थी।",
+            "कोलमण्ड में पाबूजी के मुख्य मंदिर में साल भर कोई मेला नहीं लगता है।"
+          ]
+        }
+      },
+      {
+        "explanation": {
+          "hindi": "### व्याख्या\nराजस्थानी संस्कृति में **क्षेत्रपाल** (जिन्हें खेतलाजी या क्षेत्रपालजी भी कहा जाता है) को सार्वभौमिक रूप से **ग्राम देवता** के रूप में पूजा जाता है।\n* माना जाता है कि वे गाँव की सीमाओं की रक्षा करते हैं।\n* कृषि कार्य, विवाह शुरू करने से पहले या गाँव को बीमारियों और संकटों से बचाने के लिए क्षेत्रपाल की पूजा अनिवार्य है। क्षेत्रपाल की सबसे अधिक मूर्तियाँ डूंगरपुर में पाई जाती हैं।",
+          "english": "### Explanation\n**Khetrapal** (also known as Khetlaji or Khetrapalji) is universally worshipped as the **Gram Devta** in Rajasthani culture.\n* They are believed to guard the village boundaries.\n* Worship of Khetrapal is mandatory before starting agricultural work, marriages, or when protecting the village from diseases and crises. The highest number of Khetrapal idols are found in Dungarpur."
+        },
+        "options": {
+          "hindi": [
+            "भूरिया बाबा",
+            "हड़बूजी",
+            "देवनारायण जी",
+            "क्षेत्रपाल"
+          ],
+          "english": [
+            "Bhuria Baba",
+            "Hadbu ji",
+            "Devnarayan ji",
+            "Khetrapal"
+          ]
+        },
+        "id": 9,
+        "correctAnswer": "D",
+        "question": {
+          "english": "Who is traditionally worshipped as the 'Gram Devta' (Village Deity) to protect villages from crises and diseases in Rajasthan?",
+          "hindi": "राजस्थान में गाँवों को संकटों और बीमारियों से बचाने के लिए पारंपरिक रूप से 'ग्राम देवता' के रूप में किसकी पूजा की जाती है?"
+        },
+        "subjectId": "general",
+        "subjectName": "General",
+        "subject": "General"
+      },
+      {
+        "subject": "General",
+        "subjectId": "general",
+        "explanation": {
+          "english": "### Explanation\nThe statement regarding the 'Terah Taali' dance is incorrect.\n\n* The **'Terah Taali'** dance is famously performed by the followers of the Kamadiya Panth in devotion to **Baba Ramdev ji**, not Pabuji.\n* Pabuji's devotees (especially Bhopas) recite his **Phad** playing the Ravanhattha.\n* He is the camel-deity (worshipped by Raikas) and died fighting Jindrav Khichi.",
+          "hindi": "### व्याख्या\n'तेरह ताली' नृत्य के संबंध में कथन गलत है।\n\n* **'तेरह ताली'** नृत्य प्रसिद्ध रूप से कामड़िया पंथ के अनुयायियों द्वारा **बाबा रामदेव जी** की भक्ति में किया जाता है, पाबूजी की नहीं।\n* पाबूजी के भक्त (विशेषकर भोपा) रावणहत्था बजाते हुए उनकी **फड़** का वाचन करते हैं।\n* वे ऊंटों के देवता हैं (राइकों द्वारा पूजे जाते हैं) और जींदराव खींची से लड़ते हुए शहीद हुए थे।"
+        },
+        "question": {
+          "english": "Which of the following statements is INCORRECT regarding Pabuji?",
+          "hindi": "पाबूजी के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+        },
+        "correctAnswer": "D",
+        "id": 10,
+        "options": {
+          "english": [
+            "He is regarded as the patron deity of the Raika and Rebari communities.",
+            "He attained martyrdom fighting Jindrav Khichi of Jayal.",
+            "His main temple is located in Kolumand village.",
+            "His followers dance the 'Terah Taali' dance during his worship."
+          ],
+          "hindi": [
+            "उन्हें राइका और रेबारी समुदायों का संरक्षक देवता माना जाता है।",
+            "जायल के जींदराव खींची से लड़ते हुए उन्होंने वीरगति प्राप्त की थी।",
+            "उनका मुख्य मंदिर कोलमण्ड गाँव में स्थित है।",
+            "उनके अनुयायी उनकी पूजा के दौरान 'तेरह ताली' नृत्य करते हैं।"
+          ]
+        },
+        "subjectName": "General"
+      },
+      {
+        "correctAnswer": "D",
+        "explanation": {
+          "hindi": "### व्याख्या\nमल्लीनाथ जी मारवाड़ क्षेत्र के एक प्रमुख लोक देवता हैं।\n\n* **मुख्य स्थल:** उनका मुख्य मंदिर **लूणी नदी** के तट पर **तिलवाड़ा** (बालोतरा जिला, पूर्व में बाड़मेर) में स्थित है।\n* **गलत विकल्पों का विश्लेषण:**\n  * **कामड़िया पंथ** की स्थापना बाबा रामदेव जी ने की थी।\n  * उनका पशु मेला **चैत्र** माह में लगता है (भाद्रपद में नहीं)। यह राजस्थान के सबसे पुराने पशु मेलों में से एक है।\n  * उनका समय काल 1358-1399 ई. के आसपास था, जो महाराणा प्रताप (1540-1597) से बहुत पहले का है।",
+          "english": "### Explanation\nMallinath ji is a prominent Lok Devta of the Marwar region.\n\n* **Main Site:** His principal shrine is at **Tilwara** (Balotra district, formerly Barmer) on the banks of the **Luni river**.\n* **Incorrect Options Analysis:**\n  * The **Kamadiya Panth** was established by Baba Ramdev ji.\n  * His cattle fair is held in the month of **Chaitra** (not Bhadrapada). It is one of the oldest cattle fairs in Rajasthan.\n  * He lived around 1358-1399 AD, much before Maharana Pratap (1540-1597)."
+        },
+        "subject": "General",
+        "options": {
+          "english": [
+            "He was a contemporary of Maharana Pratap.",
+            "A huge cattle fair is organized in his memory during the Bhadrapada month.",
+            "He was a saint who established the Kamadiya Panth.",
+            "His main pilgrimage site is situated on the banks of the Luni river in Tilwara."
+          ],
+          "hindi": [
+            "वे महाराणा प्रताप के समकालीन थे।",
+            "भाद्रपद माह में उनकी स्मृति में एक विशाल पशु मेला आयोजित किया जाता है।",
+            "वे एक संत थे जिन्होंने कामड़िया पंथ की स्थापना की थी।",
+            "उनका मुख्य तीर्थ स्थल तिलवाड़ा में लूणी नदी के तट पर स्थित है।"
+          ]
+        },
+        "subjectName": "General",
+        "id": 11,
+        "question": {
+          "english": "Which of the following statements is CORRECT regarding Mallinath ji?",
+          "hindi": "मल्लीनाथ जी के संबंध में निम्नलिखित में से कौन सा कथन सही है?"
+        },
+        "subjectId": "general"
+      },
+      {
+        "correctAnswer": "D",
+        "question": {
+          "hindi": "लोक देवता पाबूजी के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+          "english": "Which of the following statements is CORRECT regarding Lok Devta Pabuji?"
+        },
+        "explanation": {
+          "hindi": "### व्याख्या\nपाबूजी को ऊंटों के रक्षक देवता के रूप में पूजा जाता है। यह माना जाता है कि **मारवाड़ में सबसे पहले ऊंट लाने का श्रेय उन्हीं को है**।\n\n* **गलत विकल्पों का विश्लेषण:**\n  * उन्हें **लक्ष्मण** का अवतार माना जाता है (भगवान राम का नहीं)।\n  * उनके प्रमुख सहयोगी **चांदोजी, डेमाजी, हरमल राइका** आदि थे। (अर्जन और सुर्जन गोगाजी के चचेरे भाई थे)।\n  * उनकी 'फड़' का वाचन **रावणहत्था** वाद्य यंत्र के साथ किया जाता है, जबकि देवनारायण जी की फड़ में जंतर का प्रयोग होता है।",
+          "english": "### Explanation\nPabuji is highly revered as the protector of camels. It is believed that **he brought the first camel to the Marwar region**.\n\n* **Incorrect Options Analysis:**\n  * He is considered an incarnation of **Laxman** (not Lord Rama).\n  * His primary associates were **Chandoji, Demaji, Harmal Raika**, etc. (Arjan and Surjan were cousins of Goga ji).\n  * His 'Phad' is narrated using the **Ravanhattha** instrument, whereas Devnarayan ji's Phad uses the Jantar instrument."
+        },
+        "options": {
+          "english": [
+            "His primary associates were Arjan and Surjan.",
+            "His 'Phad' is narrated accompanied by the Jantar instrument.",
+            "He is considered an incarnation of Lord Rama.",
+            "He brought the first camel to the Marwar region."
+          ],
+          "hindi": [
+            "उनके प्रमुख सहयोगी अर्जन और सुर्जन थे।",
+            "उनकी 'फड़' का वाचन जंतर वाद्य यंत्र के साथ किया जाता है।",
+            "उन्हें भगवान राम का अवतार माना जाता है।",
+            "मारवाड़ में सबसे पहले ऊंट लाने का श्रेय उन्हें दिया जाता है।"
+          ]
+        },
+        "id": 12,
+        "subject": "General",
+        "subjectId": "general",
+        "subjectName": "General"
+      },
+      {
+        "options": {
+          "hindi": [
+            "मल्लीनाथ जी",
+            "हड़बूजी",
+            "रामदेव जी",
+            "पाबूजी"
+          ],
+          "english": [
+            "Mallinath ji",
+            "Hadbu ji",
+            "Ramdev ji",
+            "Pabuji"
+          ]
+        },
+        "explanation": {
+          "english": "### Explanation\nAt the main shrine of **Hadbu ji** in Bengti village (Phalodi district), devotees worship his traditional wooden cart (Gaadi). \n* Hadbu ji used this cart to transport grass and fodder for crippled, blind, and helpless cows. \n* He was a contemporary and cousin of Ramdev ji and a highly revered saint.",
+          "hindi": "### व्याख्या\nबैंगटी गाँव (फलोदी जिला) में **हड़बूजी** के मुख्य मंदिर में, भक्त उनकी पारंपरिक लकड़ी की गाड़ी (छकड़ा) की पूजा करते हैं।\n* हड़बूजी इस गाड़ी का उपयोग अपंग, अंधी और असहाय गायों के लिए घास और चारा लाने के लिए करते थे।\n* वे रामदेव जी के समकालीन और मौसेरे भाई थे और एक अत्यंत श्रद्धेय संत थे।"
+        },
+        "question": {
+          "hindi": "किस लोक देवता की पारंपरिक लकड़ी की गाड़ी (छकड़ा) की पूजा भक्तों द्वारा उनकी मूर्ति के स्थान पर की जाती है?",
+          "english": "Which Lok Devta's traditional wooden cart (Gaadi) is worshipped by devotees instead of his idol?"
+        },
+        "subject": "General",
+        "subjectName": "General",
+        "id": 13,
+        "correctAnswer": "B",
+        "subjectId": "general"
+      },
+      {
+        "options": {
+          "hindi": [
+            "उन्होंने 1458 ई. में पोकरण में राम सरोवर के किनारे जीवित समाधि ली थी।",
+            "उनका जन्म बाड़मेर जिले के ऊण्डूकासमेर गाँव में हुआ था।",
+            "उनके अनुयायी 'जम्मा' नामक रात्रि जागरण के दौरान 'ब्यावले' नामक भजन गाते हैं।",
+            "उनकी पचरंगी ध्वजा को 'नेजा' और उनके मेघवाल भक्तों को 'राइका' कहा जाता है।"
+          ],
+          "english": [
+            "He took living samadhi at the banks of Ram Sarovar in Pokaran in 1458 AD.",
+            "He was born in Udukasmer village of Barmer district.",
+            "His followers sing hymns called 'Bhawale' during the night vigil known as 'Jamma'.",
+            "His five-colored flag is called 'Neja' and his Meghwal devotees are called 'Raika'."
+          ]
+        },
+        "subjectId": "general",
+        "id": 14,
+        "question": {
+          "english": "Which of the following statements is INCORRECT regarding Baba Ramdev ji?",
+          "hindi": "बाबा रामदेव जी के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+        },
+        "explanation": {
+          "hindi": "### व्याख्या\n'राइका' से संबंधित कथन गलत है।\n\n* बाबा रामदेव जी की पचरंगी ध्वजा को वास्तव में **'नेजा'** कहा जाता है।\n* लेकिन उनके मेघवाल जाति के भक्तों को **'रिखिया'** कहा जाता है, न कि राइका।\n* **राइका** (या रेबारी) ऊंट पालने वाली जाति है जो **पाबूजी** को अपना आराध्य देव मानती है।\n\nउनके ऊण्डूकासमेर में जन्म, 1458 ई. में समाधि और भजनों ('ब्यावले') के बारे में अन्य सभी कथन सही हैं।",
+          "english": "### Explanation\nThe statement regarding 'Raika' is incorrect. \n\n* The five-colored flag of Baba Ramdev ji is indeed called **'Neja'**.\n* However, his devotees from the Meghwal community are called **'Rikhiya'**, not Raika.\n* **Raika** (or Rebari) is a camel-herding community that worships **Pabuji** as their main deity.\n\nAll other statements about his birth in Udukasmer, his samadhi in 1458 AD, and his hymns ('Bhawale') are correct."
+        },
+        "correctAnswer": "D",
+        "subjectName": "General",
+        "subject": "General"
+      },
+      {
+        "subject": "General",
+        "subjectName": "General",
+        "correctAnswer": "A",
+        "explanation": {
+          "english": "### Explanation\nThe life path of Baba Ramdev ji:\n1. **Birth:** He was born in **Udukasmer (Barmer)**. (3)\n2. **Early Miracles:** In his childhood, he moved to **Pokaran** (Jaisalmer) where he killed/defeated the cruel demon Bhairav. (2)\n3. **Samadhi:** Later in life, he settled in **Runicha** (now called Ramdevera), did social reform, and took living Samadhi at the banks of Ram Sarovar there in 1458 AD. (1)",
+          "hindi": "### व्याख्या\nबाबा रामदेव जी के जीवन का मार्ग:\n1. **जन्म:** उनका जन्म **ऊण्डूकासमेर (बाड़मेर)** में हुआ था। (3)\n2. **प्रारंभिक चमत्कार:** अपने बचपन में, वे **पोकरण** (जैसलमेर) चले गए जहाँ उन्होंने क्रूर भैरव राक्षस को मार गिराया/हराया। (2)\n3. **समाधि:** जीवन के उत्तरार्ध में, वे **रुणिचा** (अब रामदेवरा) में बस गए, समाज सुधार किया, और 1458 ई. में वहीं राम सरोवर के तट पर जीवित समाधि ली। (1)"
+        },
+        "id": 15,
+        "question": {
+          "english": "Arrange the following locations associated with Ramdev ji's life in chronological order of their relevance:\n1. Took living Samadhi in Runicha (Ramdevera)\n2. Defeated Bhairav Rakshas in Pokaran\n3. Born in Udukasmer, Barmer",
+          "hindi": "रामदेव जी के जीवन से जुड़े निम्नलिखित स्थानों को उनकी प्रासंगिकता के कालानुक्रमिक क्रम में व्यवस्थित करें:\n1. रुणिचा (रामदेवरा) में जीवित समाधि ली\n2. पोकरण में भैरव राक्षस को हराया\n3. ऊण्डूकासमेर, बाड़मेर में जन्म"
+        },
+        "options": {
+          "hindi": [
+            "3-2-1",
+            "1-2-3",
+            "3-1-2",
+            "2-3-1"
+          ],
+          "english": [
+            "3-2-1",
+            "1-2-3",
+            "3-1-2",
+            "2-3-1"
+          ]
+        },
+        "subjectId": "general"
+      },
+      {
+        "subjectName": "General",
+        "subject": "General",
+        "id": 16,
+        "correctAnswer": "B",
+        "question": {
+          "english": "Consider the following statements regarding the followers and companions of Lok Devtas:\n1. Chandoji, Demaji, and Harmal Raika were prime associates of Pabuji.\n2. Daliyabai was a prominent female disciple of Ramdev ji who took Samadhi before him.\n3. Arjan and Surjan faithfully supported Goga ji in his war against Ghaznavi.\n4. Bhalinath was the spiritual Guru of both Ramdev ji and Hadbu ji.\n\nWhich of the above statements are correct?",
+          "hindi": "लोक देवताओं के अनुयायियों और साथियों के संबंध में निम्नलिखित कथनों पर विचार करें:\n1. चांदोजी, डेमाजी और हरमल राइका पाबूजी के प्रमुख सहयोगी थे।\n2. डालीबाई रामदेव जी की एक प्रमुख महिला शिष्या थीं जिन्होंने उनसे पहले समाधि ली थी।\n3. अर्जन और सुर्जन ने गजनवी के खिलाफ युद्ध में गोगाजी का वफादारी से समर्थन किया था।\n4. बालीनाथ रामदेव जी और हड़बूजी दोनों के आध्यात्मिक गुरु थे।\n\nउपरोक्त में से कौन से कथन सही हैं?"
+        },
+        "subjectId": "general",
+        "explanation": {
+          "english": "### Explanation\n* **Statement 3 is Incorrect:** Arjan and Surjan were the cousins of Goga ji, but they did NOT support him. In fact, Goga ji fought against Arjan and Surjan along with Mahmud Ghaznavi to protect his cows. They were his antagonists in the property/cow dispute.\n* **Statements 1, 2, and 4 are Correct:** Pabuji's associates were Chandoji/Demaji. Daliyabai took Samadhi a day before Ramdev ji. Guru Bhalinath was indeed the common Guru of Ramdev ji and Hadbu ji.",
+          "hindi": "### व्याख्या\n* **कथन 3 गलत है:** अर्जन और सुर्जन गोगाजी के चचेरे भाई थे, लेकिन उन्होंने उनका समर्थन नहीं किया था। वास्तव में, गोगाजी ने अपनी गायों की रक्षा के लिए महमूद गजनवी के साथ अर्जन और सुर्जन के खिलाफ भी युद्ध लड़ा था। वे संपत्ति/गाय विवाद में उनके विरोधी थे।\n* **कथन 1, 2 और 4 सही हैं:** पाबूजी के सहयोगी चांदोजी/डेमाजी थे। डालीबाई ने रामदेव जी से एक दिन पहले समाधि ली थी। गुरु बालीनाथ वास्तव में रामदेव जी और हड़बूजी के गुरु थे।"
+        },
+        "options": {
+          "hindi": [
+            "1, 3 और 4",
+            "1, 2 और 4",
+            "उपरोक्त सभी",
+            "2, 3 और 4"
+          ],
+          "english": [
+            "1, 3, and 4",
+            "1, 2, and 4",
+            "All of the above",
+            "2, 3, and 4"
+          ]
+        }
+      },
+      {
+        "subject": "General",
+        "subjectName": "General",
+        "question": {
+          "english": "Which of the following pairs is INCORRECTLY matched regarding the month of the main fair of Lok Devtas?",
+          "hindi": "लोक देवताओं के मुख्य मेले के महीने के संबंध में निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?"
+        },
+        "options": {
+          "english": [
+            "Goga ji — Bhadrapada",
+            "Ramdev ji — Kartik",
+            "Teja ji — Bhadrapada",
+            "Mallinath ji — Chaitra"
+          ],
+          "hindi": [
+            "गोगाजी — भाद्रपद",
+            "रामदेव जी — कार्तिक",
+            "तेजाजी — भाद्रपद",
+            "मल्लीनाथ जी — चैत्र"
+          ]
+        },
+        "explanation": {
+          "english": "### Explanation\nThe fair of Ramdev ji is incorrectly matched with Kartik. \n\n* **Ramdev ji's** massive fair at Ramdevera (Runicha) is held in the month of **Bhadrapada** (from Bhadrapada Shukla Dwitiya to Ekadashi).\n* Teja ji (Bhadrapada Shukla 10), Goga ji (Bhadrapada Krishna 9), and Mallinath ji (Chaitra) are correctly matched.",
+          "hindi": "### व्याख्या\nरामदेव जी के मेले का कार्तिक के साथ गलत मिलान किया गया है।\n\n* रामदेवरा (रुणिचा) में **रामदेव जी** का विशाल मेला **भाद्रपद** महीने में (भाद्रपद शुक्ल द्वितीया से एकादशी तक) लगता है।\n* तेजाजी (भाद्रपद शुक्ल 10), गोगाजी (भाद्रपद कृष्ण 9), और मल्लीनाथ जी (चैत्र) का मिलान सही है।"
+        },
+        "correctAnswer": "B",
+        "id": 17,
+        "subjectId": "general"
+      },
+      {
+        "correctAnswer": "C",
+        "subject": "General",
+        "subjectId": "general",
+        "explanation": {
+          "english": "### Explanation\n* **Assertion is True:** Kalla ji is indeed called the four-armed deity.\n* **Reason is False:** He did not fight Alauddin Khilji in 1303. Instead, he fought **Mughal Emperor Akbar** during the Chittorgarh siege in **1567-68**. During this battle, he carried his wounded uncle (not commander), **Jaimal Rathore**, on his shoulders. With four swords swinging simultaneously, he appeared as a four-armed deity.",
+          "hindi": "### व्याख्या\n* **कथन सत्य है:** कल्लाजी को वास्तव में चार हाथों वाला देवता कहा जाता है।\n* **कारण असत्य है:** उन्होंने 1303 में अलाउद्दीन खिलजी से युद्ध नहीं किया था। इसके बजाय, उन्होंने **1567-68** में चित्तौड़गढ़ घेराबंदी के दौरान **मुगल सम्राट अकबर** से लड़ाई लड़ी थी। इस लड़ाई के दौरान, उन्होंने अपने घायल चाचा (सेनापति नहीं), **जयमल राठौड़** को अपने कंधों पर उठाया था। एक साथ चार तलवारें चलने से, वह चार हाथों वाले देवता के रूप में प्रकट हुए।"
+        },
+        "subjectName": "General",
+        "options": {
+          "hindi": [
+            "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।",
+            "A और R दोनों सत्य हैं, लेकिन R, A की सही व्याख्या नहीं है।",
+            "A सत्य है, लेकिन R असत्य है।",
+            "A असत्य है, लेकिन R सत्य है।"
+          ],
+          "english": [
+            "Both A and R are true, and R is the correct explanation of A.",
+            "Both A and R are true, but R is NOT the correct explanation of A.",
+            "A is true, but R is false.",
+            "A is false, but R is true."
+          ]
+        },
+        "id": 18,
+        "question": {
+          "english": "**Assertion (A):** Veer Kalla ji is famously known as the 'Four-armed deity' (Char hathon wale devta).\n**Reason (R):** He fought against Alauddin Khilji in 1303 carrying his commander on his shoulders.\n\nSelect the correct answer:",
+          "hindi": "**कथन (A):** वीर कल्लाजी को 'चार हाथों वाले देवता' के रूप में जाना जाता है।\n\n**कारण (R):** उन्होंने 1303 में अलाउद्दीन खिलजी के खिलाफ अपने सेनापति को कंधों पर बिठाकर युद्ध किया था।\n\nसही उत्तर का चयन करें:"
+        }
+      },
+      {
+        "options": {
+          "hindi": [
+            "A-3, B-1, C-4, D-2",
+            "A-4, B-3, C-2, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-1, B-2, C-3, D-4"
+          ],
+          "english": [
+            "A-3, B-1, C-4, D-2",
+            "A-4, B-3, C-2, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-1, B-2, C-3, D-4"
+          ]
+        },
+        "subjectName": "General",
+        "correctAnswer": "A",
+        "id": 19,
+        "question": {
+          "hindi": "सूची-I (रामदेव जी से संबंधित शब्दावली) का सूची-II (अर्थ) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) नेजा | (1) रात्रि जागरण |\n| (B) जम्मा | (2) देवता द्वारा दिखाए गए चमत्कार |\n| (C) रिखिया | (3) पचरंगी ध्वजा |\n| (D) पर्चा | (4) मेघवाल भक्त |\n\nसही कूट का चयन करें:",
+          "english": "Match List-I (Term related to Ramdev ji) with List-II (Meaning):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Neja | (1) Night vigil/Jagaran |\n| (B) Jamma | (2) Miracles shown by the deity |\n| (C) Rikhiya | (3) Five-colored flag |\n| (D) Parcha | (4) Meghwal devotees |\n\nChoose the correct code:"
+        },
+        "explanation": {
+          "english": "### Explanation\nThe correct terminology related to Baba Ramdev ji:\n* **Neja (A):** The 5-colored flag hosted on his temples **(3)**.\n* **Jamma (B):** The all-night devotional singing and vigil **(1)**.\n* **Rikhiya (C):** The devotees belonging to the Meghwal community **(4)**.\n* **Parcha (D):** The miracles attributed to Ramdev ji **(2)**.",
+          "hindi": "### व्याख्या\nबाबा रामदेव जी से संबंधित सही शब्दावली:\n* **नेजा (A):** उनके मंदिरों पर फहराई जाने वाली 5-रंग की ध्वजा **(3)**।\n* **जम्मा (B):** रात भर चलने वाला भक्तिमय गायन और जागरण **(1)**।\n* **रिखिया (C):** मेघवाल समुदाय से संबंधित भक्त **(4)**।\n* **पर्चा (D):** रामदेव जी द्वारा दिखाए गए चमत्कार **(2)**।"
+        },
+        "subjectId": "general",
+        "subject": "General"
+      },
+      {
+        "subject": "General",
+        "explanation": {
+          "hindi": "### व्याख्या\nतेजाजी को भगवान राम का अवतार **नहीं** माना जाता है।\n\n* **तेजाजी** को एक श्रद्धेय 'गौ-रक्षक', कृषि के देवता और सर्पदंश के प्राथमिक निवारक के रूप में पूजा जाता है।\n* अन्य जोड़े बिल्कुल सही हैं:\n  * पाबूजी को लक्ष्मण के अवतार के रूप में पूजा जाता है।\n  * देवनारायण जी को भगवान विष्णु का अवतार माना जाता है।\n  * कल्लाजी को नागराज के अवतार के रूप में पूजा जाता है।",
+          "english": "### Explanation\nTeja ji is **not** considered an incarnation of Lord Rama. \n\n* **Teja ji** is worshipped as a revered 'Gaurakshak' (cow protector), deity of agriculture, and the primary curer of snakebites.\n* The other pairings are completely correct:\n  * Pabuji is worshipped as Laxman's avatar.\n  * Devnarayan ji is considered an avatar of Lord Vishnu.\n  * Kalla ji is worshipped as an avatar of Nagraj."
+        },
+        "id": 20,
+        "question": {
+          "english": "Which of the following pairs of Lok Devta and their incarnation/avatar is INCORRECTLY matched?",
+          "hindi": "लोक देवता और उनके अवतार का निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?"
+        },
+        "correctAnswer": "B",
+        "options": {
+          "english": [
+            "Devnarayan ji — Incarnation of Vishnu",
+            "Teja ji — Incarnation of Rama",
+            "Veer Kalla ji — Incarnation of Nagraj (Sheshnag)",
+            "Pabuji — Incarnation of Laxman"
+          ],
+          "hindi": [
+            "देवनारायण जी — विष्णु का अवतार",
+            "तेजाजी — राम का अवतार",
+            "वीर कल्लाजी — नागराज (शेषनाग) का अवतार",
+            "पाबूजी — लक्ष्मण का अवतार"
+          ]
+        },
+        "subjectId": "general",
+        "subjectName": "General"
+      },
+      {
+        "question": {
+          "english": "Which of the following statements is CORRECT regarding 'Khetrapal' in Rajasthan's culture?",
+          "hindi": "राजस्थान की संस्कृति में 'क्षेत्रपाल' के संबंध में निम्नलिखित में से कौन सा कथन सही है?"
+        },
+        "explanation": {
+          "hindi": "### व्याख्या\nराजस्थानी संस्कृति में, **क्षेत्रपाल** (या खेतलाजी) को **ग्राम देवता (गाँव के देवता)** के रूप में अत्यधिक पूजा जाता है।\n\n* गाँव की सीमाओं और फसलों को संकटों से बचाने के लिए राजस्थान के लगभग हर गाँव में उनकी पूजा की जाती है।\n* गाँव में कोई भी अनुष्ठान या त्योहार शुरू करने से पहले क्षेत्रपाल की पूजा की जाती है।\n* क्षेत्रपाल की सबसे अधिक मूर्तियाँ **डूंगरपुर जिले** में पाई जाती हैं।",
+          "english": "### Explanation\nIn Rajasthani culture, **Khetrapal** (or Khetlaji) is highly revered as a **Gram Devta (Village Deity)**.\n\n* They are worshipped in almost every village in Rajasthan to protect the village boundaries and crops from crises.\n* Before starting a ritual or festival in the village, Khetrapal is worshipped.\n* The highest number of Khetrapal idols are found in the **Dungarpur district**."
+        },
+        "options": {
+          "hindi": [
+            "उन्हें कामड़िया पंथ का केंद्रीय देवता माना जाता है।",
+            "उनका मुख्य तीर्थ स्थल जैसलमेर जिले में स्थित है।",
+            "गाँव के संकटों को दूर करने के लिए उन्हें ग्राम देवता (गाँव के रक्षक) के रूप में पूजा जाता है।",
+            "उन्हें मुख्य रूप से शासक परिवारों द्वारा राज्य-स्तरीय देवता के रूप में पूजा जाता है।"
+          ],
+          "english": [
+            "He is considered the central deity of the Kamadiya Panth.",
+            "His main pilgrimage site is located in Jaisalmer district.",
+            "He is worshipped as the Gram Devta (Village Protector deity) to ward off village crises.",
+            "He is worshipped as a state-level deity primarily by the ruling families."
+          ]
+        },
+        "subject": "General",
+        "subjectId": "general",
+        "subjectName": "General",
+        "id": 21,
+        "correctAnswer": "C"
+      },
+      {
+        "options": {
+          "english": [
+            "Nagaur",
+            "Jhalawar",
+            "Bundi",
+            "Bikaner"
+          ],
+          "hindi": [
+            "नागौर",
+            "झालावाड़",
+            "बूंदी",
+            "बीकानेर"
+          ]
+        },
+        "subjectId": "general",
+        "correctAnswer": "C",
+        "explanation": {
+          "english": "### Explanation\nThe holy pilgrimage site **'Basi Dugari'** is located in the **Bundi** district.\n* Although Teja ji's birth and major life events happened in Nagaur and Ajmer (like Khadnal, Sursura, Parbatsar), Basi Dugari in Bundi holds a very significant status among his devotees as his sacred 'Karmasthali' (place of action/worship).",
+          "hindi": "### व्याख्या\nपवित्र तीर्थ स्थल **'बांसी दुगारी'** **बूंदी** जिले में स्थित है।\n* यद्यपि तेजाजी का जन्म और प्रमुख जीवन की घटनाएं नागौर और अजमेर (जैसे खड़नाल, सुरसुरा, परबतसर) में हुईं, लेकिन बूंदी में बांसी दुगारी उनके भक्तों के बीच उनकी पवित्र 'कर्मस्थली' के रूप में एक बहुत ही महत्वपूर्ण स्थान रखता है।"
+        },
+        "subjectName": "General",
+        "question": {
+          "hindi": "'बांसी दुगारी' का पवित्र तीर्थ स्थल, जिसे लोक देवता तेजाजी का एक पवित्र स्थान माना जाता है, किस जिले में स्थित है?",
+          "english": "The sacred pilgrimage site of 'Basi Dugari', which is considered a holy place of Lok Devta Teja ji, is located in which district?"
+        },
+        "id": 22,
+        "subject": "General"
+      },
+      {
+        "subjectName": "General",
+        "options": {
+          "hindi": [
+            "उपरोक्त सभी",
+            "1, 2, 3 और 5",
+            "2, 4 और 5",
+            "1, 3 और 4"
+          ],
+          "english": [
+            "All of the above",
+            "1, 2, 3, and 5",
+            "2, 4, and 5",
+            "1, 3, and 4"
+          ]
+        },
+        "correctAnswer": "B",
+        "question": {
+          "english": "Consider the following statements regarding Lok Devta Teja ji:\n1. He was born in Khadnal, Nagaur.\n2. He sacrificed his life to protect the cows of Laachha Gujari.\n3. He died of a snakebite at Sursura.\n4. He is considered the incarnation of Sheshnag.\n5. His wife Pemal became 'Sati' after his death.\n\nWhich of the above statements are correct?",
+          "hindi": "लोक देवता तेजाजी के संबंध में निम्नलिखित कथनों पर विचार करें:\n1. उनका जन्म खड़नाल, नागौर में हुआ था।\n2. उन्होंने लाछां गूजरी की गायों की रक्षा के लिए अपने प्राणों की आहुति दी।\n3. सुरसुरा में सर्पदंश से उनकी मृत्यु हुई थी।\n4. उन्हें शेषनाग का अवतार माना जाता है।\n5. उनकी पत्नी पेमल उनकी मृत्यु के बाद 'सती' हो गई थीं।\n\nउपरोक्त में से कौन से कथन सही हैं?"
+        },
+        "id": 23,
+        "subjectId": "general",
+        "explanation": {
+          "hindi": "### व्याख्या\n* **कथन 1, 2, 3 और 5 सही हैं।** तेजाजी का जन्म खड़नाल में हुआ था, उन्होंने लाछां गूजरी की गायों को मीणा चोरों से बचाया था, सेंद्रिया में उन्हें सांप ने डसा था और सुरसुरा में उनकी मृत्यु हुई थी। उनकी पत्नी पेमल सती हुई थीं।\n* **कथन 4 गलत है।** कल्लाजी राठौड़ को नागराज/शेषनाग का अवतार माना जाता है, जबकि तेजाजी को सांपों का देवता (नागवंशीय जाट) कहा जाता है, लेकिन शेषनाग का अवतार नहीं माना जाता।",
+          "english": "### Explanation\n* **Statement 1, 2, 3, and 5 are correct.** Teja ji was born in Khadnal, protected Laachha Gujari's cows from Meena thieves, was bitten by a snake at Sendariya, and died at Sursura. His wife Pemal became Sati.\n* **Statement 4 is incorrect.** Kalla ji Rathore is considered the incarnation of Nagraj/Sheshnag, whereas Teja ji is known as the deity of snakes (Nagvanshiya Jat), but not an incarnation of Sheshnag."
+        },
+        "subject": "General"
+      },
+      {
+        "question": {
+          "hindi": "राजस्थान के 'पंच पीरों' के संबंध में निम्नलिखित कथनों पर विचार करें:\n1. तेजाजी को पंच पीरों में सबसे प्रमुख माना जाता है।\n2. पाबूजी और रामदेव जी पंच पीरों का हिस्सा हैं।\n3. गोगाजी और मेहाजी मांगलिया पंच पीरों में शामिल हैं।\n4. हड़बूजी पंच पीरों में से एक हैं।\n\nउपरोक्त में से कौन से कथन सही हैं?",
+          "english": "Consider the following statements regarding the 'Panch Pirs' of Rajasthan:\n1. Teja ji is considered the foremost among the Panch Pirs.\n2. Pabuji and Ramdev ji are part of the Panch Pirs.\n3. Goga ji and Mehaji Mangliya are included in the Panch Pirs.\n4. Hadbu ji is one of the Panch Pirs.\n\nWhich of the above statements are correct?"
+        },
+        "subjectId": "general",
+        "subjectName": "General",
+        "options": {
+          "hindi": [
+            "उपरोक्त सभी",
+            "1, 3 और 4",
+            "2, 3 और 4",
+            "1, 2 और 3"
+          ],
+          "english": [
+            "All of the above",
+            "1, 3, and 4",
+            "2, 3, and 4",
+            "1, 2, and 3"
+          ]
+        },
+        "id": 25,
+        "correctAnswer": "C",
+        "subject": "General",
+        "explanation": {
+          "hindi": "### व्याख्या\n* **कथन 1 गलत है:** **तेजाजी** अत्यधिक श्रद्धेय हैं लेकिन उन्हें 'पंच पीरों' (पांच पीर) में शामिल **नहीं** किया गया है।\n* राजस्थान के पांच पीर हैं: **पाबूजी, हड़बूजी, रामदेव जी, गोगाजी, और मेहाजी मांगलिया**। (दोहे द्वारा याद किया जाता है: *\"पाबू, हड़बू, रामदे, मांगलिया मेहा। पांचों पीर पधारिज्यो, गोगाजी जेहा\"*)।",
+          "english": "### Explanation\n* **Statement 1 is Incorrect:** **Teja ji** is heavily revered but he is **NOT** included in the 'Panch Pirs' (Five Pirs).\n* The Five Pirs of Rajasthan are: **Pabuji, Hadbu ji, Ramdev ji, Goga ji, and Mehaji Mangliya**. (Remembered by the couplet: *\"Pabu, Hadbu, Ramde, Mangliya Meha. Pancho Pir Padhariyo, Goga ji Geha\"*)."
+        }
+      },
+      {
+        "explanation": {
+          "english": "### Explanation\nThe statement regarding meat offering is completely incorrect. \n\n* **Kaila Devi** is widely known for her pure vegetarian nature. Meat is **never** offered at her temple in Karauli.\n* She is the Kuldevi of the Jadon Rajputs.\n* Her devotees sing **Languriya** songs and perform dances.\n* **Swangiya Mata** (also known as Aavad Mata) is indeed the Kuldevi of the Jaisalmer Bhati rulers, and the Sugan Chidi (bird) is considered her symbol.",
+          "hindi": "### व्याख्या\nमांस के भोग से संबंधित कथन पूरी तरह से गलत है।\n\n* **कैला देवी** अपने शुद्ध शाकाहारी स्वरूप के लिए जानी जाती हैं। करौली में उनके मंदिर में **कभी भी** मांस का भोग नहीं लगाया जाता है।\n* वह जादौन राजपूतों की कुलदेवी हैं।\n* उनके भक्त **लांगुरिया** गीत गाते हैं और नृत्य करते हैं।\n* **स्वांगिया माता** (जिन्हें आवड़ माता भी कहा जाता है) जैसलमेर के भाटी शासकों की कुलदेवी हैं, और सुगन चिड़ी को उनका प्रतीक माना जाता है।"
+        },
+        "subject": "General",
+        "subjectId": "general",
+        "id": 26,
+        "options": {
+          "english": [
+            "The famous 'Languriya' songs are sung in devotion to Kaila Devi.",
+            "Kaila Devi is worshipped as the clan goddess (Kuldevi) of the Jadon branch of the Yadav dynasty.",
+            "Meat is regularly offered as a sacred ritual at the Kaila Devi temple.",
+            "Swangiya Mata is considered the clan goddess of the Bhati rulers of Jaisalmer."
+          ],
+          "hindi": [
+            "कैला देवी की भक्ति में प्रसिद्ध 'लांगुरिया' गीत गाए जाते हैं।",
+            "कैला देवी को यादव वंश की जादौन शाखा की कुलदेवी के रूप में पूजा जाता है।",
+            "कैला देवी के मंदिर में नियमित रूप से मांस का भोग लगाया जाता है।",
+            "स्वांगिया माता को जैसलमेर के भाटी शासकों की कुलदेवी माना जाता है।"
+          ]
+        },
+        "question": {
+          "hindi": "राजस्थान की लोक देवियों के संबंध में निम्नलिखित में से कौन सा कथन गलत है?",
+          "english": "Which of the following statements is INCORRECT regarding Lok Devis of Rajasthan?"
+        },
+        "correctAnswer": "C",
+        "subjectName": "General"
+      },
+      {
+        "subjectName": "General",
+        "question": {
+          "english": "**Assertion (A):** Teja ji is prominently worshipped by farmers to seek protection against snakebites.\n**Reason (R):** Teja ji survived a deadly snakebite at Sursura with the blessing of Nagraj.\n\nSelect the correct answer:",
+          "hindi": "**कथन (A):** किसानों द्वारा मुख्य रूप से सर्पदंश से बचाव के लिए तेजाजी की पूजा की जाती है।\n\n**कारण (R):** तेजाजी नागराज के आशीर्वाद से सुरसुरा में एक घातक सर्पदंश से बच गए थे।\n\nसही उत्तर का चयन करें:"
+        },
+        "options": {
+          "english": [
+            "Both A and R are true, but R is NOT the correct explanation of A.",
+            "A is false, but R is true.",
+            "Both A and R are true, and R is the correct explanation of A.",
+            "A is true, but R is false."
+          ],
+          "hindi": [
+            "A और R दोनों सत्य हैं, लेकिन R, A की सही व्याख्या नहीं है।",
+            "A असत्य है, लेकिन R सत्य है।",
+            "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।",
+            "A सत्य है, लेकिन R असत्य है।"
+          ]
+        },
+        "subjectId": "general",
+        "explanation": {
+          "english": "### Explanation\n* **Assertion is True:** He is worshipped across Rajasthan for curing snakebites.\n* **Reason is False:** He did **not** survive the snakebite. He was bitten on his tongue by a snake at Sendariya to keep his promise and subsequently **died** from the venom at Sursura. It was his supreme sacrifice and truthfulness that earned him the boon to become the curer of snakebites.",
+          "hindi": "### व्याख्या\n* **कथन सत्य है:** पूरे राजस्थान में सर्पदंश के इलाज के लिए उनकी पूजा की जाती है।\n* **कारण असत्य है:** वे सर्पदंश से **बचे नहीं** थे। अपना वचन निभाने के लिए सेंद्रिया में एक सांप ने उनकी जीभ पर डसा था और बाद में सुरसुरा में जहर से उनकी **मृत्यु** हो गई थी। उनके इसी सर्वोच्च बलिदान और सत्यवादिता ने उन्हें सर्पदंश के निवारक बनने का वरदान दिलाया।"
+        },
+        "subject": "General",
+        "id": 27,
+        "correctAnswer": "D"
+      },
+      {
+        "question": {
+          "hindi": "लोक देवता गोगाजी के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+          "english": "Which of the following statements is CORRECT regarding Lok Devta Goga ji?"
+        },
+        "id": 28,
+        "subjectName": "General",
+        "options": {
+          "hindi": [
+            "उन्हें मारवाड़ क्षेत्र में ऊंटों का प्राथमिक देवता माना जाता है।",
+            "महमूद गजनवी के खिलाफ युद्ध में उनकी असाधारण बहादुरी के कारण उन्हें 'जाहर पीर' के रूप में पूजा जाता है।",
+            "हनुमानगढ़ जिले में उनके मुख्य मंदिर को 'शीर्ष मेड़ी' कहा जाता है।",
+            "उन्होंने मुगल सम्राट अकबर के खिलाफ एक ऐतिहासिक युद्ध लड़ा था।"
+          ],
+          "english": [
+            "He is considered the primary deity of camels in the Marwar region.",
+            "He is revered as 'Jahar Pir' due to his extraordinary bravery in battle against Mahmud Ghaznavi.",
+            "His main temple in Hanumangarh district is known as 'Shirsh Medi'.",
+            "He fought a historic battle against the Mughal Emperor Akbar."
+          ]
+        },
+        "explanation": {
+          "english": "### Explanation\nGoga ji fought a fierce battle against Mahmud Ghaznavi to protect cows alongside his cousins Arjan and Surjan. Witnessing his divine bravery, Mahmud Ghaznavi called him **'Jahar Pir'** (Manifested/Living Deity).\n\n* **Incorrect Options Analysis:**\n  * He did not fight Akbar; Kalla ji fought Akbar in 1567-68.\n  * The temple in Hanumangarh (Nohar) is called **Dhur Medi** or **Gogamedi**, whereas his birthplace Dadrewa (Churu) is called **Shirsh Medi**.\n  * Pabuji, not Gogaji, is the primary deity of camels.",
+          "hindi": "### व्याख्या\nगोगाजी ने अपने मौसेरे भाइयों अर्जन-सुर्जन के साथ गायों की रक्षा के लिए महमूद गजनवी के खिलाफ भयंकर युद्ध लड़ा था। उनकी अलौकिक वीरता को देखकर महमूद गजनवी ने उन्हें **'जाहर पीर'** (साक्षात देवता) कहा था।\n\n* **गलत विकल्पों का विश्लेषण:**\n  * उन्होंने अकबर से युद्ध नहीं किया था; कल्लाजी ने 1567-68 में अकबर से युद्ध किया था।\n  * हनुमानगढ़ (नोहर) के मंदिर को **धुर मेड़ी** या **गोगामेड़ी** कहा जाता है, जबकि उनके जन्मस्थान ददरेवा (चूरू) को **शीर्ष मेड़ी** कहा जाता है।\n  * गोगाजी नहीं, बल्कि पाबूजी ऊंटों के प्राथमिक देवता हैं।"
+        },
+        "subjectId": "general",
+        "subject": "General",
+        "correctAnswer": "B"
+      },
+      {
+        "id": 30,
+        "explanation": {
+          "hindi": "### व्याख्या\nकल्लाजी के बारे में कथन गलत है।\n\n* **खेजड़ी के पेड़** के नीचे सांप उकेरे हुए पत्थर वाले थान मुख्य रूप से **गोगाजी** से जुड़े होते हैं (\"गाँव-गाँव खेजड़ी, गाँव-गाँव गोगो\")।\n* कल्लाजी के थान पारंपरिक रूप से इस विशिष्ट खेजड़ी-सांप पत्थर व्यवस्था से जुड़े नहीं हैं; उनकी सबसे प्रसिद्ध मूर्ति सामलिया में काले पत्थर की मूर्ति है।\n* अन्य कथन सत्य हैं: गोगा राखड़ी में 9 गांठें होती हैं, तेजाजी के पुजारियों को 'घोडला' कहा जाता है, और पाबूजी ऊंटों और प्लेग के देवता हैं।",
+          "english": "### Explanation\nThe statement about Kalla ji is incorrect.\n\n* Shrines under the **Khejri tree** featuring a stone carved with a snake are strictly associated with **Goga ji** (\"Gaon-Gaon Khejdi, Gaon-Gaon Gogo\").\n* Kalla ji's shrines are not traditionally associated with this specific Khejri-snake stone setup; his most famous idol is the black stone idol at Samaliya.\n* The other statements are true: Goga Rakhi has 9 knots, Teja ji's priests are called 'Ghodla', and Pabuji is the deity of camels and Plague."
+        },
+        "subjectId": "general",
+        "options": {
+          "english": [
+            "Pabuji is widely considered the protector against Plague disease.",
+            "Veer Kalla ji's idol is generally placed under the Khejri tree alongside a stone carved with a snake.",
+            "Goga ji is worshipped to cure snakebites and a Rakhi with 9 knots is tied to the plow in his honor.",
+            "Teja ji's priests who cure snakebites are traditionally known as 'Ghodla'."
+          ],
+          "hindi": [
+            "पाबूजी को व्यापक रूप से प्लेग रोग से बचाने वाला माना जाता है।",
+            "वीर कल्लाजी की मूर्ति को आमतौर पर खेजड़ी के पेड़ के नीचे सांप उकेरे हुए पत्थर के साथ रखा जाता है।",
+            "सर्पदंश के इलाज के लिए गोगाजी की पूजा की जाती है और उनके सम्मान में हल पर 9 गांठों वाली राखी बांधी जाती है।",
+            "सर्पदंश का इलाज करने वाले तेजाजी के पुजारियों को पारंपरिक रूप से 'घोडला' कहा जाता है।"
+          ]
+        },
+        "subject": "General",
+        "question": {
+          "english": "Which of the following statements is INCORRECT regarding the worship of Lok Devtas in Rajasthan?",
+          "hindi": "राजस्थान में लोक देवताओं की पूजा के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+        },
+        "correctAnswer": "B",
+        "subjectName": "General"
+      },
+      {
+        "subjectName": "General",
+        "id": 32,
+        "subject": "General",
+        "explanation": {
+          "english": "### Explanation\nBoth Assertion and Reason are true facts about Pabuji, but the Reason does **not** explain the Assertion.\n* **Assertion:** He is the deity of camels because it is believed he brought the first camel to the Marwar region. Thus, camel herders (Raika/Rebari) worship him.\n* **Reason:** He fought Jindrav Khichi for cow protection, which makes him a 'Gaurakshak' (protector of cows). It has no direct relation to him being the camel deity.",
+          "hindi": "### व्याख्या\nकथन और कारण दोनों पाबूजी के बारे में सत्य तथ्य हैं, लेकिन कारण कथन की व्याख्या **नहीं** करता है।\n* **कथन:** वह ऊंटों के देवता हैं क्योंकि ऐसा माना जाता है कि वह मारवाड़ क्षेत्र में पहला ऊंट लाए थे। इस प्रकार, ऊंट पालक (राइका/रेबारी) उनकी पूजा करते हैं।\n* **कारण:** उन्होंने गाय की रक्षा के लिए जींदराव खींची से लड़ाई की, जो उन्हें 'गौ-रक्षक' बनाता है। इसका उनके ऊंटों के देवता होने से कोई सीधा संबंध नहीं है।"
+        },
+        "options": {
+          "hindi": [
+            "A असत्य है, लेकिन R सत्य है।",
+            "A सत्य है, लेकिन R असत्य है।",
+            "A और R दोनों सत्य हैं, लेकिन R, A की सही व्याख्या नहीं है।",
+            "A और R दोनों सत्य हैं, और R, A की सही व्याख्या है।"
+          ],
+          "english": [
+            "A is false, but R is true.",
+            "A is true, but R is false.",
+            "Both A and R are true, but R is NOT the correct explanation of A.",
+            "Both A and R are true, and R is the correct explanation of A."
+          ]
+        },
+        "correctAnswer": "C",
+        "subjectId": "general",
+        "question": {
+          "hindi": "**कथन (A):** पाबूजी को ऊंटों के देवता के रूप में पूजा जाता है।\n\n**कारण (R):** उन्होंने देवल चारणी की गायों की रक्षा के लिए जींदराव खींची से लड़ते हुए अपने प्राणों की आहुति दी थी।\n\nसही उत्तर का चयन करें:",
+          "english": "**Assertion (A):** Pabuji is deeply venerated as the deity of Camels.\n**Reason (R):** He sacrificed his life fighting against Jindrav Khichi to protect the cows of Deval Charani.\n\nSelect the correct answer:"
+        }
+      },
+      {
+        "subjectName": "General",
+        "correctAnswer": "A",
+        "options": {
+          "hindi": [
+            "उनकी 'फड़' सबसे लंबी और पुरानी है, जिस पर 1992 में ₹5 का डाक टिकट जारी किया गया था।",
+            "उनका मुख्य मंदिर कोलमण्ड, जोधपुर में स्थित है।",
+            "उन्हें मुख्य रूप से मेघवाल समुदाय द्वारा पूजा जाता है।",
+            "उन्होंने अपने भाई के साथ महमूद गजनवी के खिलाफ युद्ध लड़ा था।"
+          ],
+          "english": [
+            "His 'Phad' is the longest and oldest, on which a ₹5 postage stamp was issued in 1992.",
+            "His main temple is located in Kolumand, Jodhpur.",
+            "He is worshipped primarily by the Meghwal community.",
+            "He fought against Mahmud Ghaznavi alongside his brother."
+          ]
+        },
+        "subject": "General",
+        "question": {
+          "hindi": "देवनारायण जी के संबंध में निम्नलिखित में से कौन सा कथन सही है?",
+          "english": "Which of the following statements is CORRECT regarding Devnarayan ji?"
+        },
+        "id": 33,
+        "explanation": {
+          "hindi": "### व्याख्या\nदेवनारायण जी को गुर्जर समुदाय द्वारा अत्यधिक पूजा जाता है।\n\n* **फड़:** उनकी फड़ (स्क्रॉल पेंटिंग) सभी लोक देवताओं में सबसे पुरानी और सबसे लंबी है। भारतीय डाक विभाग ने 2 सितंबर 1992 को उनकी फड़ पर ₹5 का डाक टिकट जारी किया था।\n* **गलत विकल्पों का विश्लेषण:**\n  * उनका मुख्य पूजा स्थल **आसींद (भीलवाड़ा)** है, न कि कोलमण्ड (जो पाबूजी का है)।\n  * उनकी पूजा **गुर्जर** समुदाय द्वारा की जाती है, न कि मेघवाल (जो रामदेव जी को मानते हैं)।\n  * महमूद गजनवी से युद्ध गोगाजी ने लड़ा था, देवनारायण जी ने नहीं।",
+          "english": "### Explanation\nDevnarayan ji is deeply revered by the Gurjar community. \n\n* **Phad:** His Phad (scroll painting) is the oldest and longest among all Lok Devtas. The Indian Postal Department issued a ₹5 stamp on his Phad on September 2, 1992.\n* **Incorrect Options Analysis:**\n  * His main place of worship is **Asind (Bhilwara)**, not Kolumand (which belongs to Pabuji).\n  * He is worshipped by the **Gurjar** community, not Meghwal (who follow Ramdev ji).\n  * Goga ji fought Mahmud Ghaznavi, not Devnarayan ji."
+        },
+        "subjectId": "general"
+      },
+      {
+        "explanation": {
+          "english": "### Explanation\nThe chronological sequence based on their birth/active periods:\n1. **Pabuji:** Born in **1239 AD** (Vikram Samvat 1296) in Kolumand.\n2. **Mallinath ji:** Born in **1358 AD**.\n3. **Ramdev ji:** Born in **1405 AD** (Vikram Samvat 1462) in Udukasmer.\n4. **Veer Kalla ji:** Born in **1544 AD** (Vikram Samvat 1601) in Samiyana.\n\nThus, the correct order is 2-1-4-3.",
+          "hindi": "### व्याख्या\nउनके जन्म/सक्रिय अवधि के आधार पर कालानुक्रमिक क्रम:\n1. **पाबूजी:** जन्म **1239 ई.** (विक्रम संवत 1296) में कोलमण्ड में।\n2. **मल्लीनाथ जी:** जन्म **1358 ई.** में।\n3. **रामदेव जी:** जन्म **1405 ई.** (विक्रम संवत 1462) में ऊण्डूकासमेर में।\n4. **वीर कल्लाजी:** जन्म **1544 ई.** (विक्रम संवत 1601) में सामियाना में।\n\nइस प्रकार, सही क्रम 2-1-4-3 है।"
+        },
+        "correctAnswer": "B",
+        "question": {
+          "english": "Arrange the birth years of the following Lok Devtas in correct chronological/ascending order:\n1. Mallinath ji\n2. Pabuji\n3. Kalla ji\n4. Ramdev ji",
+          "hindi": "निम्नलिखित लोक देवताओं के जन्म वर्षों को सही कालानुक्रमिक/आरोही क्रम में व्यवस्थित करें:\n1. मल्लीनाथ जी\n2. पाबूजी\n3. कल्लाजी\n4. रामदेव जी"
+        },
+        "subject": "General",
+        "options": {
+          "hindi": [
+            "1-2-4-3",
+            "2-1-4-3",
+            "4-2-1-3",
+            "2-4-1-3"
+          ],
+          "english": [
+            "1-2-4-3",
+            "2-1-4-3",
+            "4-2-1-3",
+            "2-4-1-3"
+          ]
+        },
+        "subjectId": "general",
+        "id": 34,
+        "subjectName": "General"
+      },
+      {
+        "subjectId": "general",
+        "options": {
+          "english": [
+            "A-4, B-3, C-1, D-2",
+            "A-3, B-4, C-2, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-1, B-4, C-3, D-2"
+          ],
+          "hindi": [
+            "A-4, B-3, C-1, D-2",
+            "A-3, B-4, C-2, D-1",
+            "A-3, B-4, C-1, D-2",
+            "A-1, B-4, C-3, D-2"
+          ]
+        },
+        "subjectName": "General",
+        "correctAnswer": "C",
+        "explanation": {
+          "english": "### Explanation\nThe correct pairing of Lok Devtas with their cultural symbols/musical instruments is:\n* **Pabuji (A):** His Phad is sung using the **Ravanhattha (3)** instrument.\n* **Devnarayan ji (B):** His Phad is sung using the **Jantar (4)** instrument.\n* **Ramdev ji (C):** Instead of idols, his footprints called **Paglya (1)** are worshipped in villages.\n* **Hadbu ji (D):** His traditional wooden cart, **Chhakda (2)**, is worshipped.",
+          "hindi": "### व्याख्या\nलोक देवताओं का उनके सांस्कृतिक प्रतीकों/वाद्य यंत्रों के साथ सही मिलान है:\n* **पाबूजी (A):** उनकी फड़ **रावणहत्था (3)** वाद्य यंत्र के साथ गाई जाती है।\n* **देवनारायण जी (B):** उनकी फड़ **जंतर (4)** वाद्य यंत्र के साथ गाई जाती है।\n* **रामदेव जी (C):** मूर्तियों के बजाय, गाँवों में उनके पदचिह्नों की पूजा की जाती है जिन्हें **पगलिया (1)** कहा जाता है।\n* **हड़बूजी (D):** उनकी पारंपरिक लकड़ी की गाड़ी, **छकड़ा (2)** की पूजा की जाती है।"
+        },
+        "id": 35,
+        "subject": "General",
+        "question": {
+          "english": "Match List-I (Lok Devta) with List-II (Specific Cultural Symbol/Artifact):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Pabuji | (1) Paglya (Footprints) |\n| (B) Devnarayan ji | (2) Chhakda (Wooden Cart) |\n| (C) Ramdev ji | (3) Ravanhattha |\n| (D) Hadbu ji | (4) Jantar |\n\nChoose the correct code:",
+          "hindi": "सूची-I (लोक देवता) का सूची-II (विशिष्ट सांस्कृतिक प्रतीक/कलाकृति) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) पाबूजी | (1) पगलिया (पदचिह्न) |\n| (B) देवनारायण जी | (2) छकड़ा (लकड़ी की गाड़ी) |\n| (C) रामदेव जी | (3) रावणहत्था |\n| (D) हड़बूजी | (4) जंतर |\n\nसही कूट का चयन करें:"
+        }
+      },
+      {
+        "correctAnswer": "C",
+        "explanation": {
+          "hindi": "### व्याख्या\nतेजाजी को मुख्य रूप से साँपों, कृषि और गौ-रक्षक देवता के रूप में पूजा जाता है। उन्हें भगवान विष्णु का अवतार नहीं माना जाता है (देवनारायण जी को भगवान विष्णु का अवतार माना जाता है)।\n\n**तेजाजी के बारे में मुख्य तथ्य:**\n* **जन्म:** खड़नाल (नागौर) में ताहड़जी और रामकुंवरी के घर।\n* **पत्नी:** पेमल (पनेर, अजमेर)।\n* **बलिदान:** उन्होंने लाछां गूजरी की गायों की रक्षा के लिए अपने प्राणों की आहुति दी।\n* **प्रमुख मेला:** परबतसर (नागौर) में भाद्रपद शुक्ल दशमी (तेजा दशमी) को लगता है।",
+          "english": "### Explanation\nTeja ji is widely revered as the deity of snakes, agriculture, and cow protection ('Gaurakshak'). He is not worshipped as an incarnation of Lord Vishnu (Devnarayan ji is considered an incarnation of Lord Vishnu). \n\n**Key Facts about Teja ji:**\n* **Birth:** Khadnal (Nagaur) to Taharji and Ramkunwari.\n* **Wife:** Pemal (Paner, Ajmer).\n* **Sacrifice:** He sacrificed his life to protect the cows of Laachha Gujari.\n* **Major Fair:** Parbatsar (Nagaur) on Bhadrapada Shukla Dashami (Teja Dashami)."
+        },
+        "subject": "General",
+        "question": {
+          "english": "Which of the following statements is INCORRECT regarding Lok Devta Teja ji?",
+          "hindi": "लोक देवता तेजाजी के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+        },
+        "id": 37,
+        "subjectId": "general",
+        "subjectName": "General",
+        "options": {
+          "english": [
+            "A massive cattle fair is organized in his memory at Parbatsar.",
+            "His wife's name was Pemal, who belonged to Paner.",
+            "He is primarily worshipped as an incarnation of Lord Vishnu.",
+            "He was born in Khadnal village of Nagaur district to a Jat family."
+          ],
+          "hindi": [
+            "उनकी स्मृति में परबतसर में एक विशाल पशु मेला आयोजित किया जाता है।",
+            "उनकी पत्नी का नाम पेमल था, जो पनेर की रहने वाली थीं।",
+            "उन्हें मुख्य रूप से भगवान विष्णु के अवतार के रूप में पूजा जाता है।",
+            "उनका जन्म नागौर जिले के खड़नाल गाँव में एक जाट परिवार में हुआ था।"
+          ]
+        }
+      },
+      {
+        "subjectName": "General",
+        "question": {
+          "english": "Consider the following statements regarding Lok Devta Pabuji:\n1. He is considered the incarnation of Laxman.\n2. He is the principal deity of the Raika/Rebari community.\n3. He fought against Mahmud Ghaznavi for cow protection.\n4. His symbol is a spear-wielding horse rider.\n\nWhich of the above statements are INCORRECT?",
+          "hindi": "लोक देवता पाबूजी के संबंध में निम्नलिखित कथनों पर विचार करें:\n1. उन्हें लक्ष्मण का अवतार माना जाता है।\n2. वे राइका/रेबारी समुदाय के प्रमुख देवता हैं।\n3. उन्होंने गायों की रक्षा के लिए महमूद गजनवी के खिलाफ युद्ध लड़ा था।\n4. उनका प्रतीक भाला लिए हुए घुड़सवार है।\n\nउपरोक्त में से कौन से कथन गलत हैं?"
+        },
+        "correctAnswer": "A",
+        "subject": "General",
+        "subjectId": "general",
+        "id": 38,
+        "options": {
+          "english": [
+            "3 only",
+            "3 and 4",
+            "4 only",
+            "1 and 2"
+          ],
+          "hindi": [
+            "केवल 3",
+            "3 और 4",
+            "केवल 4",
+            "1 और 2"
+          ]
+        },
+        "explanation": {
+          "english": "### Explanation\n* **Statement 3 is Incorrect:** Pabuji protected the cows of Deval Charani from Jindrav Khichi (his brother-in-law). It was **Goga ji** who fought Mahmud Ghaznavi.\n* **Statement 1, 2, and 4 are Correct:** Pabuji is considered the avatar of Laxman. The camel-herding Raika/Rebari community considers him their main deity. His typical iconography shows him as a spear-wielding rider (Bhala liye hue ashavarohi).",
+          "hindi": "### व्याख्या\n* **कथन 3 गलत है:** पाबूजी ने देवल चारणी की गायों को जींदराव खींची (उनके बहनोई) से बचाया था। **गोगाजी** ने महमूद गजनवी के खिलाफ युद्ध लड़ा था।\n* **कथन 1, 2 और 4 सही हैं:** पाबूजी को लक्ष्मण का अवतार माना जाता है। ऊंट पालने वाला राइका/रेबारी समुदाय उन्हें अपना मुख्य देवता मानता है। उनका प्रतीक भाला लिए हुए घुड़सवार (भाला लिए हुए अश्वारोही) है।"
+        }
+      },
+      {
+        "subject": "General",
+        "id": 39,
+        "explanation": {
+          "english": "### Explanation\nThe correct matching of Lok Devtas with their birthplaces is:\n* **Pabuji (A):** Born in **Kolumand (2)**, Jodhpur.\n* **Ramdev ji (B):** Born in **Udukasmer (3)**, Barmer.\n* **Teja ji (C):** Born in **Khadnal (1)**, Nagaur.\n* **Goga ji (D):** Born in **Dadrewa (4)**, Churu.",
+          "hindi": "### व्याख्या\nलोक देवताओं का उनके जन्मस्थान के साथ सही मिलान इस प्रकार है:\n* **पाबूजी (A):** जन्म **कोलमण्ड (2)**, जोधपुर में हुआ।\n* **रामदेव जी (B):** जन्म **ऊण्डूकासमेर (3)**, बाड़मेर में हुआ।\n* **तेजाजी (C):** जन्म **खड़नाल (1)**, नागौर में हुआ।\n* **गोगाजी (D):** जन्म **ददरेवा (4)**, चूरू में हुआ।"
+        },
+        "subjectId": "general",
+        "subjectName": "General",
+        "correctAnswer": "A",
+        "question": {
+          "hindi": "सूची-I (लोक देवता) का सूची-II (जन्म स्थान) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) पाबूजी | (1) खड़नाल |\n| (B) रामदेव जी | (2) कोलमण्ड |\n| (C) तेजाजी | (3) ऊण्डूकासमेर |\n| (D) गोगाजी | (4) ददरेवा |\n\nसही कूट का चयन करें:",
+          "english": "Match List-I (Lok Devta) with List-II (Birthplace):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Pabuji | (1) Khadnal |\n| (B) Ramdev ji | (2) Kolumand |\n| (C) Teja ji | (3) Udukasmer |\n| (D) Goga ji | (4) Dadrewa |\n\nChoose the correct code:"
+        },
+        "options": {
+          "english": [
+            "A-2, B-3, C-1, D-4",
+            "A-2, B-4, C-3, D-1",
+            "A-1, B-2, C-3, D-4",
+            "A-3, B-1, C-4, D-2"
+          ],
+          "hindi": [
+            "A-2, B-3, C-1, D-4",
+            "A-2, B-4, C-3, D-1",
+            "A-1, B-2, C-3, D-4",
+            "A-3, B-1, C-4, D-2"
+          ]
+        }
+      },
+      {
+        "explanation": {
+          "hindi": "### व्याख्या\nकालानुक्रमिक समयरेखा इस प्रकार है:\n1. **गोगाजी का युद्ध:** 11वीं सदी की शुरुआत (लगभग 1024 ई.) में महमूद गजनवी के खिलाफ युद्ध किया। (2)\n2. **रामदेव जी की समाधि:** **1458 ई.** (विक्रम संवत 1515) में जीवित समाधि ली। (3)\n3. **कल्लाजी का युद्ध:** **1567-68 ई.** में अकबर के खिलाफ युद्ध किया। (1)\n4. **डाक टिकट:** **2 सितंबर 1992** को देवनारायण जी की फड़ पर जारी किया गया। (4)\n\nसही क्रम: 2-3-1-4।",
+          "english": "### Explanation\nThe chronological timeline is:\n1. **Goga ji's battle:** Fought against Mahmud Ghaznavi in the early 11th century (approx. 1024 AD). (2)\n2. **Ramdev ji's Samadhi:** Took living Samadhi in **1458 AD** (Vikram Samvat 1515). (3)\n3. **Kalla ji's battle:** Fought against Akbar in **1567-68 AD**. (1)\n4. **Postage Stamp:** Issued on Devnarayan ji's Phad on **2 September 1992**. (4)\n\nCorrect sequence: 2-3-1-4."
+        },
+        "subject": "General",
+        "correctAnswer": "D",
+        "options": {
+          "english": [
+            "3-2-1-4",
+            "2-1-3-4",
+            "1-2-3-4",
+            "2-3-1-4"
+          ],
+          "hindi": [
+            "3-2-1-4",
+            "2-1-3-4",
+            "1-2-3-4",
+            "2-3-1-4"
+          ]
+        },
+        "id": 40,
+        "subjectId": "general",
+        "subjectName": "General",
+        "question": {
+          "hindi": "लोक देवताओं से जुड़ी निम्नलिखित ऐतिहासिक घटनाओं को कालानुक्रमिक क्रम में व्यवस्थित करें:\n1. कल्लाजी ने चित्तौड़गढ़ की घेराबंदी में अकबर के खिलाफ युद्ध किया\n2. गोगाजी ने महमूद गजनवी के खिलाफ युद्ध किया\n3. बाबा रामदेव जी ने राम सरोवर में जीवित समाधि ली\n4. देवनारायण जी की फड़ पर स्मारक डाक टिकट जारी किया गया",
+          "english": "Arrange the following historical events associated with Lok Devtas in chronological order:\n1. Kalla ji fights against Akbar in the siege of Chittorgarh\n2. Goga ji fights Mahmud Ghaznavi\n3. Baba Ramdev ji takes living Samadhi at Ram Sarovar\n4. Commemorative postage stamp issued on Devnarayan ji's Phad"
+        }
+      },
+      {
+        "question": {
+          "hindi": "हिंदू कैलेंडर महीनों के अनुसार वर्ष की शुरुआत (चैत्र) से निम्नलिखित लोक देवताओं के मुख्य मेलों को कालानुक्रमिक क्रम में व्यवस्थित करें:\n1. मल्लीनाथ जी\n2. गोगाजी\n3. रामदेव जी\n4. तेजाजी",
+          "english": "Arrange the occurrence of the main fairs of the following Lok Devtas according to the Hindu Calendar months in chronological order from the beginning of the year (Chaitra):\n1. Mallinath ji\n2. Goga ji\n3. Ramdev ji\n4. Teja ji"
+        },
+        "subjectName": "General",
+        "id": 41,
+        "subjectId": "general",
+        "subject": "General",
+        "options": {
+          "english": [
+            "1-3-2-4",
+            "1-2-4-3",
+            "2-1-4-3",
+            "1-2-3-4"
+          ],
+          "hindi": [
+            "1-3-2-4",
+            "1-2-4-3",
+            "2-1-4-3",
+            "1-2-3-4"
+          ]
+        },
+        "explanation": {
+          "english": "### Explanation\nThe correct chronological order based on the Hindu calendar months:\n1. **Mallinath ji:** Fair is held in the month of **Chaitra** at Tilwara.\n2. **Goga ji:** Fair is held on **Bhadrapada Krishna Navami** (dark half of Bhadrapada).\n3. **Ramdev ji:** Fair starts on **Bhadrapada Shukla Dwitiya** (2nd day of bright half of Bhadrapada).\n4. **Teja ji:** Fair is held on **Bhadrapada Shukla Dashami** (10th day of bright half).\n\nSequence: Chaitra -> Bhadrapada Krishna 9 -> Bhadrapada Shukla 2 -> Bhadrapada Shukla 10.",
+          "hindi": "### व्याख्या\nहिंदू कैलेंडर महीनों के आधार पर सही कालानुक्रमिक क्रम:\n1. **मल्लीनाथ जी:** मेला तिलवाड़ा में **चैत्र** माह में लगता है।\n2. **गोगाजी:** मेला **भाद्रपद कृष्ण नवमी** को लगता है।\n3. **रामदेव जी:** मेला **भाद्रपद शुक्ल द्वितीया** से शुरू होता है।\n4. **तेजाजी:** मेला **भाद्रपद शुक्ल दशमी** को लगता है।\n\nक्रम: चैत्र -> भाद्रपद कृष्ण 9 -> भाद्रपद शुक्ल 2 -> भाद्रपद शुक्ल 10।"
+        },
+        "correctAnswer": "D"
+      },
+      {
+        "id": 42,
+        "subject": "General",
+        "correctAnswer": "A",
+        "explanation": {
+          "english": "### Explanation\nThe prominent places associated with the deities are:\n* **Hadbu ji (A):** Main temple is in **Bengti (4)**, Phalodi.\n* **Devnarayan ji (B):** Main worship place is **Asind (1)**, Bhilwara.\n* **Mallinath ji (C):** Shrine located at **Tilwara (2)** on Luni river.\n* **Kalla ji (D):** A prominent black stone idol is at **Samaliya (3)**, Dungarpur.",
+          "hindi": "### व्याख्या\nदेवताओं से जुड़े प्रमुख स्थान इस प्रकार हैं:\n* **हड़बूजी (A):** मुख्य मंदिर फलोदी के **बैंगटी (4)** में है।\n* **देवनारायण जी (B):** मुख्य पूजा स्थल भीलवाड़ा के **आसींद (1)** में है।\n* **मल्लीनाथ जी (C):** मंदिर लूणी नदी पर **तिलवाड़ा (2)** में स्थित है।\n* **कल्लाजी (D):** एक प्रमुख काले पत्थर की मूर्ति डूंगरपुर के **सामलिया (3)** में है।"
+        },
+        "subjectName": "General",
+        "options": {
+          "english": [
+            "A-4, B-1, C-2, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-4, B-2, C-1, D-3",
+            "A-1, B-4, C-3, D-2"
+          ],
+          "hindi": [
+            "A-4, B-1, C-2, D-3",
+            "A-3, B-1, C-4, D-2",
+            "A-4, B-2, C-1, D-3",
+            "A-1, B-4, C-3, D-2"
+          ]
+        },
+        "question": {
+          "english": "Match List-I (Lok Devta) with List-II (Place of prominence/Temple):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Hadbu ji | (1) Asind |\n| (B) Devnarayan ji | (2) Tilwara |\n| (C) Mallinath ji | (3) Samaliya |\n| (D) Kalla ji | (4) Bengti |\n\nChoose the correct code:",
+          "hindi": "सूची-I (लोक देवता) का सूची-II (प्रमुख स्थान/मंदिर) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) हड़बूजी | (1) आसींद |\n| (B) देवनारायण जी | (2) तिलवाड़ा |\n| (C) मल्लीनाथ जी | (3) सामलिया |\n| (D) कल्लाजी | (4) बैंगटी |\n\nसही कूट का चयन करें:"
+        },
+        "subjectId": "general"
+      },
+      {
+        "subjectName": "General",
+        "subject": "General",
+        "id": 43,
+        "question": {
+          "hindi": "लोक देवता और उनके संबंधित वाहन (सवारी) का निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?",
+          "english": "Which of the following pairs of Lok Devta and their associated Mount/Vehicle is INCORRECTLY matched?"
+        },
+        "correctAnswer": "B",
+        "subjectId": "general",
+        "explanation": {
+          "english": "### Explanation\nPabuji's mount is incorrectly listed as an Elephant. \n\n* **Pabuji's** primary mount was a legendary mare named **'Kesar Kalmi'**, which was given to him by Deval Charani.\n* Ramdev ji is heavily associated with the 'Lila Ghoda' (Blue horse).\n* Goga ji's ride is known as 'Nili Ghodi' or 'Gogabappa'.\n* Teja ji's famous mare was 'Leelan' (Singari).",
+          "hindi": "### व्याख्या\nपाबूजी का वाहन हाथी के रूप में गलत सूचीबद्ध है।\n\n* **पाबूजी** की मुख्य सवारी **'केसर कालमी'** नामक एक प्रसिद्ध घोड़ी थी, जो उन्हें देवल चारणी द्वारा दी गई थी।\n* रामदेव जी 'लीला घोड़ा' (नीला घोड़ा) से जुड़े हैं।\n* गोगाजी की सवारी को 'नीली घोड़ी' या 'गोगाबप्पा' कहा जाता है।\n* तेजाजी की प्रसिद्ध घोड़ी 'लीलण' (सिंगारी) थी।"
+        },
+        "options": {
+          "hindi": [
+            "तेजाजी — लीलण (घोड़ी)",
+            "पाबूजी — हाथी",
+            "रामदेव जी — लीला घोड़ा (नीला घोड़ा)",
+            "गोगाजी — नीली घोड़ी (गोगाबप्पा)"
+          ],
+          "english": [
+            "Teja ji — Leelan (Mare)",
+            "Pabuji — Elephant",
+            "Ramdev ji — Lila Ghoda (Blue Horse)",
+            "Goga ji — Nili Ghodi (Blue Mare/Gogabappa)"
+          ]
+        }
+      },
+      {
+        "id": 44,
+        "subjectId": "general",
+        "question": {
+          "english": "Match List-I (Deity) with List-II (Key Attribute/Epithet):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Kalla ji | (1) Jahar Pir |\n| (B) Goga ji | (2) Char hathon wale Devta |\n| (C) Pabuji | (3) Gaurakshak and Kala-Bala ke Devta |\n| (D) Teja ji | (4) Plague Rakshak |\n\nChoose the correct code:",
+          "hindi": "सूची-I (देवता) का सूची-II (मुख्य विशेषता/उपाधि) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) कल्लाजी | (1) जाहर पीर |\n| (B) गोगाजी | (2) चार हाथों वाले देवता |\n| (C) पाबूजी | (3) गौ-रक्षक और काला-बाला के देवता |\n| (D) तेजाजी | (4) प्लेग रक्षक |\n\nसही कूट का चयन करें:"
+        },
+        "options": {
+          "english": [
+            "A-3, B-1, C-4, D-2",
+            "A-1, B-2, C-3, D-4",
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3"
+          ],
+          "hindi": [
+            "A-3, B-1, C-4, D-2",
+            "A-1, B-2, C-3, D-4",
+            "A-2, B-1, C-4, D-3",
+            "A-2, B-4, C-1, D-3"
+          ]
+        },
+        "correctAnswer": "C",
+        "subjectName": "General",
+        "explanation": {
+          "english": "### Explanation\nThe prominent epithets of the Lok Devtas are:\n* **Kalla ji (A):** Known as the 'Four-armed deity' (**Char hathon wale Devta - 2**) due to his fighting style holding Jaimal.\n* **Goga ji (B):** Revered as **Jahar Pir (1)**.\n* **Pabuji (C):** Worshipped as the protector against camels' diseases and **Plague Rakshak (4)**.\n* **Teja ji (D):** Called the deity of agriculture (**Kala-Bala ke Devta**) and **Gaurakshak (3)**.",
+          "hindi": "### व्याख्या\nलोक देवताओं की प्रमुख उपाधियाँ इस प्रकार हैं:\n* **कल्लाजी (A):** जयमल को पकड़कर लड़ने की उनकी शैली के कारण 'चार हाथों वाले देवता' (**2**) के रूप में जाने जाते हैं।\n* **गोगाजी (B):** **जाहर पीर (1)** के रूप में पूजे जाते हैं।\n* **पाबूजी (C):** ऊंटों की बीमारियों से रक्षक और **प्लेग रक्षक (4)** के रूप में पूजे जाते हैं।\n* **तेजाजी (D):** कृषि के देवता (**काला-बाला के देवता**) और **गौ-रक्षक (3)** कहलाते हैं।"
+        },
+        "subject": "General"
+      },
+      {
+        "correctAnswer": "A",
+        "subject": "General",
+        "subjectId": "general",
+        "explanation": {
+          "hindi": "### व्याख्या\n* **कथन 1 गलत है:** कैला देवी **करौली** के जादौन शासकों की कुलदेवी हैं, जैसलमेर की नहीं। जैसलमेर के भाटी शासक स्वांगिया माता की पूजा करते हैं।\n* **कथन 2, 3 और 4 सही हैं:** लांगुरिया गीत कैला देवी की भक्ति का प्रमुख हिस्सा हैं। स्वांगिया माता को आवड़ देवी का अवतार माना जाता है, और राज्य चिह्न के शीर्ष पर 'सुगन चिड़ी' (पालम पक्षी) उनका प्रतिनिधित्व करता है।",
+          "english": "### Explanation\n* **Statement 1 is Incorrect:** Kaila Devi is the Kuldevi of the Jadon rulers of **Karauli**, not Jaisalmer. The Bhati rulers of Jaisalmer worship Swangiya Mata.\n* **Statement 2, 3, and 4 are Correct:** Languriya songs are a trademark of Kaila Devi's devotion. Swangiya Mata is considered an incarnation of Goddess Aavad, and the 'Sugan Chidi' (Palem bird) on the top of the state emblem represents her."
+        },
+        "question": {
+          "hindi": "लोक देवियों के संबंध में निम्नलिखित कथनों पर विचार करें:\n1. कैला देवी जैसलमेर के जादौन शासकों की कुलदेवी हैं।\n2. कैला देवी के मंदिर के प्रांगण में लांगुरिया गीत गाए जाते हैं।\n3. स्वांगिया माता को आवड़ माता का रूप माना जाता है।\n4. सुगन चिड़ी (पालम पक्षी) स्वांगिया माता से जुड़ा एक पवित्र प्रतीक है।\n\nउपरोक्त में से कौन से कथन सही हैं?",
+          "english": "Consider the following statements regarding Lok Devis:\n1. Kaila Devi is the Kuldevi of the Jadon rulers of Jaisalmer.\n2. Languriya songs are sung in the courtyard of the Kaila Devi temple.\n3. Swangiya Mata is considered a form of Goddess Aavad.\n4. Sugan Chidi (Palem bird) is a sacred symbol associated with Swangiya Mata.\n\nWhich of the above statements are correct?"
+        },
+        "subjectName": "General",
+        "id": 45,
+        "options": {
+          "hindi": [
+            "2, 3 और 4",
+            "1 और 4",
+            "उपरोक्त सभी",
+            "1, 2 और 3"
+          ],
+          "english": [
+            "2, 3, and 4",
+            "1 and 4",
+            "All of the above",
+            "1, 2, and 3"
+          ]
+        }
+      },
+      {
+        "subject": "General",
+        "question": {
+          "hindi": "सूची-I (लोक देवता) का सूची-II (पत्नी का नाम) के साथ मिलान करें:\n\n| सूची-I | सूची-II |\n| :--- | :--- |\n| (A) तेजाजी | (1) नेतलदे |\n| (B) रामदेव जी | (2) फूलमदे (सुप्यारदे) |\n| (C) गोगाजी | (3) पेमल |\n| (D) पाबूजी | (4) केलमदे |\n\nसही कूट का चयन करें:",
+          "english": "Match List-I (Lok Devta) with List-II (Wife's Name):\n\n| List-I | List-II |\n| :--- | :--- |\n| (A) Teja ji | (1) Netalde |\n| (B) Ramdev ji | (2) Phulamde (Supyarde) |\n| (C) Goga ji | (3) Pemal |\n| (D) Pabuji | (4) Kelamde |\n\nChoose the correct code:"
+        },
+        "subjectName": "General",
+        "id": 46,
+        "explanation": {
+          "english": "### Explanation\nThe correct matching of Lok Devtas with their wives is:\n* **Teja ji (A):** Married to **Pemal (3)** from Paner.\n* **Ramdev ji (B):** Married to **Netalde (1)** from Amarkot.\n* **Goga ji (C):** Married to **Kelamde (4)** from Kolumand.\n* **Pabuji (D):** Married to **Phulamde/Supyarde (2)** from Amarkot.",
+          "hindi": "### व्याख्या\nलोक देवताओं का उनकी पत्नियों के साथ सही मिलान इस प्रकार है:\n* **तेजाजी (A):** विवाह पनेर की **पेमल (3)** से हुआ था।\n* **रामदेव जी (B):** विवाह अमरकोट की **नेतलदे (1)** से हुआ था।\n* **गोगाजी (C):** विवाह कोलमण्ड की **केलमदे (4)** से हुआ था।\n* **पाबूजी (D):** विवाह अमरकोट की **फूलमदे/सुप्यारदे (2)** से हुआ था।"
+        },
+        "subjectId": "general",
+        "options": {
+          "english": [
+            "A-4, B-2, C-3, D-1",
+            "A-3, B-1, C-4, D-2",
+            "A-3, B-4, C-1, D-2",
+            "A-1, B-3, C-2, D-4"
+          ],
+          "hindi": [
+            "A-4, B-2, C-3, D-1",
+            "A-3, B-1, C-4, D-2",
+            "A-3, B-4, C-1, D-2",
+            "A-1, B-3, C-2, D-4"
+          ]
+        },
+        "correctAnswer": "B"
+      },
+      {
+        "question": {
+          "hindi": "गोगाजी से जुड़े निम्नलिखित स्थानों को उनके जन्म से लेकर उनके मुख्य मंदिर तक अवरोही/तार्किक क्रम में व्यवस्थित करें:\n1. धुर मेड़ी (नोहर)\n2. शीर्ष मेड़ी (ददरेवा)\n3. गोगाजी की ओल्डी (सांचौर)",
+          "english": "Arrange the following locations associated with Goga ji in descending order from his Birth to his Main Temple:\n1. Dhur Medi (Nohar)\n2. Shirsh Medi (Dadrewa)\n3. Goga ji ki Odi (Sanchore)"
+        },
+        "subjectName": "General",
+        "correctAnswer": "B",
+        "options": {
+          "english": [
+            "2-3-1",
+            "2-1-3",
+            "3-2-1",
+            "1-2-3"
+          ],
+          "hindi": [
+            "2-3-1",
+            "2-1-3",
+            "3-2-1",
+            "1-2-3"
+          ]
+        },
+        "subjectId": "general",
+        "subject": "General",
+        "id": 47,
+        "explanation": {
+          "english": "### Explanation\nThe logical geographical/historical sequence related to Goga ji:\n1. **Shirsh Medi (Dadrewa, Churu):** This is his birthplace where his head fell during the battle. (2)\n2. **Dhur Medi (Nohar, Hanumangarh):** This is where his torso (Kabandh) fell, and the main Makbaranuma temple is built. (1)\n3. **Goga ji ki Odi (Sanchore):** A famous hut/temple built by devotees. (3)\nCorrect sequence from birth to later temples: 2-1-3.",
+          "hindi": "### व्याख्या\nगोगाजी से संबंधित तार्किक भौगोलिक/ऐतिहासिक क्रम:\n1. **शीर्ष मेड़ी (ददरेवा, चूरू):** यह उनका जन्मस्थान है जहाँ युद्ध के दौरान उनका सिर गिरा था। (2)\n2. **धुर मेड़ी (नोहर, हनुमानगढ़):** यहाँ उनका धड़ (कबंध) गिरा था, और मुख्य मकबरानुमा मंदिर बना है। (1)\n3. **गोगाजी की ओल्डी (सांचौर):** भक्तों द्वारा निर्मित एक प्रसिद्ध झोपड़ी/मंदिर। (3)\nजन्म से लेकर बाद के मंदिरों तक सही क्रम: 2-1-3।"
+        }
+      },
+      {
+        "subjectId": "general",
+        "subjectName": "General",
+        "options": {
+          "hindi": [
+            "स्वांगिया माता — जैसलमेर के भाटी शासक",
+            "करणी माता — चारण समुदाय",
+            "स्वांगिया माता — अजमेर के चौहान शासक",
+            "कैला देवी — यादव वंश की जादौन शाखा"
+          ],
+          "english": [
+            "Swangiya Mata — Bhati rulers of Jaisalmer",
+            "Karni Mata — Charan community",
+            "Swangiya Mata — Chauhan rulers of Ajmer",
+            "Kaila Devi — Jadon branch of Yadav dynasty"
+          ]
+        },
+        "explanation": {
+          "english": "### ExplanationSwangiya Mata is incorrectly matched in the option. * **Swangiya Mata** is specifically the Kuldevi of the **Bhati Rajput rulers of Jaisalmer**, not the Chauhans of Ajmer.* The emblem of Jaisalmer state contains a 'Sugan Chidi' (bird) or spear which symbolizes Swangiya Mata.* Kaila Devi is correctly matched with Jadons of Karauli, and Karni Mata is highly revered by the Charan community.",
+          "hindi": "### व्याख्या विकल्प में स्वांगिया माता का मिलान गलत है।\n\n* **स्वांगिया माता** विशेष रूप से **जैसलमेर के भाटी राजपूत शासकों** की कुलदेवी हैं, न कि अजमेर के चौहानों की।*\n\n जैसलमेर राज्य के प्रतीक चिह्न में 'सुगन चिड़ी' (पक्षी) या भाला होता है जो स्वांगिया माता का प्रतीक है।*\n\n कैला देवी का करौली के जादौन के साथ सही मिलान है, और करणी माता चारण समुदाय द्वारा अत्यधिक पूजनीय हैं।"
+        },
+        "subject": "General",
+        "question": {
+          "hindi": "लोक देवियों और उनके संबंधित समुदाय/वंश का निम्नलिखित में से कौन सा जोड़ा गलत सुमेलित है?",
+          "english": "Which of the following pairs of Lok Devis and their associated community/clan is INCORRECTLY matched?"
+        },
+        "correctAnswer": "C",
+        "id": 49
+      },
+      {
+        "subjectId": "general",
+        "subjectName": "General",
+        "subject": "General",
+        "question": {
+          "english": "Which of the following statements is INCORRECT regarding Veer Kalla ji Rathore?",
+          "hindi": "वीर कल्लाजी राठौड़ के संबंध में निम्नलिखित में से कौन सा कथन गलत है?"
+        },
+        "options": {
+          "hindi": [
+            "चित्तौड़गढ़ के पहले घेराव के दौरान अलाउद्दीन खिलजी के खिलाफ लड़ते हुए वे शहीद हुए थे।",
+            "उनका जन्म नागौर के सामियाना गाँव में हुआ था।",
+            "वे 'चार हाथों वाले देवता' के रूप में प्रसिद्ध हैं।",
+            "उनकी मुख्य काले पत्थर की मूर्ति डूंगरपुर के सामलिया क्षेत्र में स्थापित है।"
+          ],
+          "english": [
+            "He was martyred while fighting against Alauddin Khilji during the first siege of Chittorgarh.",
+            "He was born in Samiyana village, Nagaur.",
+            "He is famous as the 'Four-armed deity' (Char hathon wale devta).",
+            "His principal black stone idol is established at Samaliya area in Dungarpur."
+          ]
+        },
+        "id": 50,
+        "correctAnswer": "A",
+        "explanation": {
+          "english": "### Explanation\nThe statement regarding Alauddin Khilji is incorrect.\n\n* **Veer Kalla ji** was martyred fighting against **Mughal Emperor Akbar** during the third siege of Chittorgarh in **1567-68 AD**.\n* During the battle, he carried his wounded uncle, Jaimal Rathore, on his shoulders. Due to the four swords fighting simultaneously (two of Kalla ji and two of Jaimal), he became famous as the **'Four-armed deity'**.\n* He is also considered an incarnation of Nagraj (Sheshnag).",
+          "hindi": "### व्याख्या\nअलाउद्दीन खिलजी से संबंधित कथन गलत है।\n\n* **वीर कल्लाजी** **1567-68 ई.** में चित्तौड़गढ़ के तीसरे घेराव के दौरान **मुगल सम्राट अकबर** के खिलाफ लड़ते हुए वीरगति को प्राप्त हुए थे।\n* युद्ध के दौरान, उन्होंने अपने घायल चाचा जयमल राठौड़ को अपने कंधों पर बिठा लिया था। एक साथ चार तलवारें चलने (दो कल्लाजी की और दो जयमल की) के कारण वे **'चार हाथों वाले देवता'** के रूप में प्रसिद्ध हुए।\n* उन्हें नागराज (शेषनाग) का अवतार भी माना जाता है।"
+        }
+      }
+    ],
+    "subsection": "",
+    "status": "published",
+    "id": "test-1783439940827"
+  }
+]

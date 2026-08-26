@@ -1,0 +1,147 @@
+[
+  {
+    "category": "Science",
+    "question_text": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correct_option_id": 1,
+    "explanation": "Mars appears red due to iron oxide (rust) on its surface."
+  },
+  {
+    "category": "Science",
+    "question_text": "What is the chemical symbol for Gold?",
+    "options": ["Ag", "Au", "Pb", "Fe"],
+    "correct_option_id": 1,
+    "explanation": "Au comes from the Latin word for gold, 'Aurum'."
+  },
+  {
+    "category": "Science",
+    "question_text": "What gas do plants primarily absorb during photosynthesis?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct_option_id": 2,
+    "explanation": "Plants take in Carbon Dioxide (CO2) and release Oxygen (O2)."
+  },
+  {
+    "category": "Science",
+    "question_text": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Platinum"],
+    "correct_option_id": 2,
+    "explanation": "Diamond is the hardest known natural mineral on Earth."
+  },
+  {
+    "category": "Science",
+    "question_text": "What is the human body's largest organ?",
+    "options": ["Liver", "Brain", "Heart", "Skin"],
+    "correct_option_id": 3,
+    "explanation": "The skin is the largest organ of the human body."
+  },
+  {
+    "category": "Geography",
+    "question_text": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correct_option_id": 2,
+    "explanation": "Paris is the capital and largest city of France."
+  },
+  {
+    "category": "Geography",
+    "question_text": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correct_option_id": 3,
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "category": "Geography",
+    "question_text": "Which country has the largest land area in the world?",
+    "options": ["Canada", "China", "Russia", "USA"],
+    "correct_option_id": 2,
+    "explanation": "Russia is the largest country in the world by land area."
+  },
+  {
+    "category": "Geography",
+    "question_text": "Mount Everest is located in which mountain range?",
+    "options": ["Andes", "Alps", "Rockies", "Himalayas"],
+    "correct_option_id": 3,
+    "explanation": "Mount Everest is the highest peak in the Himalayas."
+  },
+  {
+    "category": "Geography",
+    "question_text": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correct_option_id": 1,
+    "explanation": "The Nile River is traditionally considered the longest river in the world."
+  },
+  {
+    "category": "History",
+    "question_text": "In which year did World War II conclude?",
+    "options": ["1943", "1945", "1947", "1950"],
+    "correct_option_id": 1,
+    "explanation": "World War II concluded in 1945 with the surrender of Axis forces."
+  },
+  {
+    "category": "History",
+    "question_text": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+    "correct_option_id": 2,
+    "explanation": "George Washington served as the first U.S. President from 1789 to 1797."
+  },
+  {
+    "category": "History",
+    "question_text": "The ancient city of Rome was built along which river?",
+    "options": ["Tiber", "Danube", "Rhine", "Po"],
+    "correct_option_id": 0,
+    "explanation": "Rome was founded on the banks of the Tiber River."
+  },
+  {
+    "category": "History",
+    "question_text": "Which famous scientist developed the theory of general relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "correct_option_id": 1,
+    "explanation": "Albert Einstein published the general theory of relativity in 1915."
+  },
+  {
+    "category": "General Knowledge",
+    "question_text": "How many days are there in a leap year?",
+    "options": ["364", "365", "366", "367"],
+    "correct_option_id": 2,
+    "explanation": "A leap year contains 366 days, with an extra day in February."
+  },
+  {
+    "category": "General Knowledge",
+    "question_text": "Which language has the most native speakers in the world?",
+    "options": ["English", "Mandarin Chinese", "Spanish", "Hindi"],
+    "correct_option_id": 1,
+    "explanation": "Mandarin Chinese has the highest number of native speakers globally."
+  },
+  {
+    "category": "General Knowledge",
+    "question_text": "What is the currency of Japan?",
+    "options": ["Yuan", "Won", "Yen", "Ringgit"],
+    "correct_option_id": 2,
+    "explanation": "The Japanese Yen is the official currency of Japan."
+  },
+  {
+    "category": "Technology",
+    "question_text": "What does 'CPU' stand for in computing?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Central Power Unit",
+      "Control Program Unit"
+    ],
+    "correct_option_id": 0,
+    "explanation": "CPU stands for Central Processing Unit, the primary processor of a computer."
+  },
+  {
+    "category": "Technology",
+    "question_text": "Who is credited with inventing the World Wide Web in 1989?",
+    "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Alan Turing"],
+    "correct_option_id": 2,
+    "explanation": "Sir Tim Berners-Lee invented the World Wide Web in 1989 at CERN."
+  },
+  {
+    "category": "Technology",
+    "question_text": "Which programming language is named after a comedy group?",
+    "options": ["Java", "Python", "Ruby", "Perl"],
+    "correct_option_id": 1,
+    "explanation": "Guido van Rossum named Python after the BBC show Monty Python's Flying Circus."
+  }
+]
