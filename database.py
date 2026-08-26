@@ -37,10 +37,37 @@ def get_db():
         )
 
 
+def delete_non_rajasthan_gk():
+    """
+    Deletes all questions from Firestore where category is not 'Rajasthan GK'.
+    """
+    db = get_db()
+    collection_ref = db.collection(config.COLLECTION_NAME)
+    docs = collection_ref.stream()
+    batch = db.batch()
+    count = 0
+    total_deleted = 0
+
+    for doc in docs:
+        data = doc.to_dict()
+        cat = (data.get("category") or "").strip().lower()
+        if cat != "rajasthan gk":
+            batch.delete(doc.reference)
+            count += 1
+            total_deleted += 1
+            if count >= 400:
+                batch.commit()
+                batch = db.batch()
+                count = 0
+
+    if count > 0:
+        batch.commit()
+    return total_deleted
+
+
 def get_categories():
     """
     Returns a dictionary of categories and the count of UNUSED questions in each.
-    Example: {'Science': 5, 'Geography': 5, 'History': 4}
     """
     db = get_db()
     collection_ref = db.collection(config.COLLECTION_NAME)
@@ -49,8 +76,9 @@ def get_categories():
     category_counts = {}
     for doc in docs:
         data = doc.to_dict()
-        cat = data.get("category", "General")
-        category_counts[cat] = category_counts.get(cat, 0) + 1
+        cat = data.get("category", "Rajasthan GK")
+        if cat.strip().lower() == "rajasthan gk":
+            category_counts["Rajasthan GK"] = category_counts.get("Rajasthan GK", 0) + 1
 
     return category_counts
 
@@ -111,13 +139,16 @@ def add_questions_batch(questions_list: list):
     
     for q in questions_list:
         doc_data = {
-            "category": q.get("category", "General"),
+            "category": q.get("category", "Rajasthan GK"),
+            "subcategory": q.get("subcategory", "Culture"),
+            "topic": q.get("topic", q.get("source_test", "General")),
             "question_text": q.get("question_text", ""),
             "options": q.get("options", []),
             "correct_option_id": int(q.get("correct_option_id", 0)),
             "explanation": q.get("explanation", ""),
             "is_used": False,
-            "created_at": datetime.datetime.utcnow()
+            "created_at": datetime.datetime.utcnow(),
+            "source_test": q.get("source_test", q.get("topic", ""))
         }
         collection_ref.add(doc_data)
         added_count += 1
