@@ -81,8 +81,18 @@ async function uploadExportedTests() {
   let skippedCount = 0;
 
   for (const test of raw) {
-    const testTitle = test.title || "Rajasthan GK";
-    const questions = test.questions || [];
+    const rawCat = test.category || test.examCategory || "";
+    let subcategory = "Culture";
+    const combined = `${rawCat} ${testTitle}`.toLowerCase();
+    if (combined.includes('art') || combined.includes('culture') || combined.includes('संस्कृति') || combined.includes('देवता') || combined.includes('मेले') || combined.includes('त्यौहार') || combined.includes('दुर्ग') || combined.includes('नृत्य') || combined.includes('साहित्य') || combined.includes('संत')) {
+      subcategory = "Culture";
+    } else if (combined.includes('geography') || combined.includes('भूगोल') || combined.includes('कृषि') || combined.includes('नदी') || combined.includes('नदियां') || combined.includes('जलवायु') || combined.includes('खनिज') || combined.includes('वन') || combined.includes('सिंचाई')) {
+      subcategory = "Geography";
+    } else if (combined.includes('polity') || combined.includes('राजव्यवस्था') || combined.includes('विधानसभा') || combined.includes('राज्यपाल') || combined.includes('पंचायत') || combined.includes('न्यायालय') || combined.includes('rpsc')) {
+      subcategory = "Polity";
+    } else if (combined.includes('history') || combined.includes('इतिहास') || combined.includes('क्रांति') || combined.includes('सभ्यता') || combined.includes('राजवंश') || combined.includes('एकीकरण') || combined.includes('आंदोलन') || combined.includes('प्रजामंडल')) {
+      subcategory = "History";
+    }
 
     for (const q of questions) {
       // Question text (prefer Hindi)
@@ -126,6 +136,8 @@ async function uploadExportedTests() {
       const firestoreDoc = {
         fields: {
           category: { stringValue: "Rajasthan GK" },
+          subcategory: { stringValue: subcategory },
+          topic: { stringValue: testTitle },
           question_text: { stringValue: questionText.trim() },
           options: {
             arrayValue: {
