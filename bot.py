@@ -312,37 +312,16 @@ async def publish_quiz_to_channel(bot, admin_chat_id: int, category: str, count:
             raw_expl = str(q.get("explanation", "")).strip()
             explanation = format_markdown_table(raw_expl)[:195] if raw_expl else None
 
-            if has_table_or_multiline:
-                # Step 1: Send formatted question as a message with full linebreaks
-                msg_text = f"📝 **प्रश्न #{index}:**\n\n{formatted_q}\n\n👇 **सही विकल्प / कूट का चयन करें:**"
-                await bot.send_message(
-                    chat_id=config.TELEGRAM_CHANNEL_ID,
-                    text=msg_text,
-                    parse_mode="Markdown"
-                )
-                await asyncio.sleep(0.8)
-
-                # Step 2: Send Quiz Poll for voting
-                await bot.send_poll(
-                    chat_id=config.TELEGRAM_CHANNEL_ID,
-                    question=f"प्रश्न #{index} का सही उत्तर चुनें:",
-                    options=clean_options,
-                    type=Poll.QUIZ,
-                    correct_option_id=correct_id,
-                    explanation=explanation,
-                    is_anonymous=True
-                )
-            else:
-                # Standard single-line question
-                await bot.send_poll(
-                    chat_id=config.TELEGRAM_CHANNEL_ID,
-                    question=formatted_q[:295],
-                    options=clean_options,
-                    type=Poll.QUIZ,
-                    correct_option_id=correct_id,
-                    explanation=explanation,
-                    is_anonymous=True
-                )
+            # Send as direct quiz poll
+            await bot.send_poll(
+                chat_id=config.TELEGRAM_CHANNEL_ID,
+                question=formatted_q[:295],
+                options=clean_options,
+                type=Poll.QUIZ,
+                correct_option_id=correct_id,
+                explanation=explanation,
+                is_anonymous=True
+            )
 
             posted_ids.append(q["id"])
             await asyncio.sleep(1.5)
