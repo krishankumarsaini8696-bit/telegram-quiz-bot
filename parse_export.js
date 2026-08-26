@@ -22,10 +22,30 @@ function getLetterIdx(ans) {
   return 0;
 }
 
+function detectSubcategory(testCategory, testTitle) {
+  const combined = `${testCategory || ''} ${testTitle || ''}`.toLowerCase();
+  if (combined.includes('art') || combined.includes('culture') || combined.includes('संस्कृति') || combined.includes('देवता') || combined.includes('मेले') || combined.includes('त्यौहार') || combined.includes('दुर्ग') || combined.includes('नृत्य') || combined.includes('साहित्य') || combined.includes('संत')) {
+    return "Culture";
+  }
+  if (combined.includes('geography') || combined.includes('भूगोल') || combined.includes('कृषि') || combined.includes('नदी') || combined.includes('नदियां') || combined.includes('जलवायु') || combined.includes('खनिज') || combined.includes('वन') || combined.includes('सिंचाई')) {
+    return "Geography";
+  }
+  if (combined.includes('polity') || combined.includes('राजव्यवस्था') || combined.includes('विधानसभा') || combined.includes('राज्यपाल') || combined.includes('पंचायत') || combined.includes('न्यायालय') || combined.includes('rpsc')) {
+    return "Polity";
+  }
+  if (combined.includes('history') || combined.includes('इतिहास') || combined.includes('क्रांति') || combined.includes('सभ्यता') || combined.includes('राजवंश') || combined.includes('एकीकरण') || combined.includes('आंदोलन') || combined.includes('प्रजामंडल')) {
+    return "History";
+  }
+  return "Culture";
+}
+
 raw.forEach((test, tIdx) => {
-  const testTitle = test.title || `Test ${tIdx + 1}`;
+  const testTitle = (test.title || `Test ${tIdx + 1}`).trim();
+  const rawCat = test.category || test.examCategory || "";
+  const subcategory = detectSubcategory(rawCat, testTitle);
+  const topic = testTitle;
   const questions = test.questions || [];
-  console.log(`Test "${testTitle}": ${questions.length} questions`);
+  console.log(`Test "${testTitle}" -> Subcategory: ${subcategory}, Topic: ${topic} (${questions.length} questions)`);
 
   questions.forEach(q => {
     totalQuestions++;
@@ -71,6 +91,8 @@ raw.forEach((test, tIdx) => {
 
     parsedQuestions.push({
       category: "Rajasthan GK",
+      subcategory: subcategory,
+      topic: topic,
       question_text: questionText.trim(),
       options: options.map(opt => String(opt).trim()),
       correct_option_id: correctId,
@@ -83,8 +105,7 @@ raw.forEach((test, tIdx) => {
 });
 
 console.log(`\nTotal parsed questions: ${parsedQuestions.length}`);
-console.log("\nSample Parsed Question 1:");
-console.log(JSON.stringify(parsedQuestions[0], null, 2));
 
-console.log("\nSample Parsed Question 2:");
-console.log(JSON.stringify(parsedQuestions[1], null, 2));
+// Write to questions.json
+fs.writeFileSync(path.join(__dirname, 'questions.json'), JSON.stringify(parsedQuestions, null, 2), 'utf8');
+console.log(`✅ Saved ${parsedQuestions.length} Rajasthan GK questions to questions.json!`);
