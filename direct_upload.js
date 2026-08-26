@@ -72,7 +72,9 @@ async function uploadQuestions() {
   for (const q of questions) {
     const firestoreDoc = {
       fields: {
-        category: { stringValue: q.category || "General" },
+        category: { stringValue: q.category || "Rajasthan GK" },
+        subcategory: { stringValue: q.subcategory || "Culture" },
+        topic: { stringValue: q.topic || q.source_test || "General" },
         question_text: { stringValue: q.question_text || "" },
         options: {
           arrayValue: {
@@ -82,7 +84,8 @@ async function uploadQuestions() {
         correct_option_id: { integerValue: String(q.correct_option_id || 0) },
         explanation: { stringValue: q.explanation || "" },
         is_used: { booleanValue: false },
-        created_at: { timestampValue: new Date().toISOString() }
+        created_at: { timestampValue: new Date().toISOString() },
+        source_test: { stringValue: q.source_test || q.topic || "" }
       }
     };
 
