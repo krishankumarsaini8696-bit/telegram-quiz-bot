@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cat_rajasthan_gk",
+    "name": "Rajasthan GK",
+    "icon": "🏰",
+    "description": "General Knowledge, History, Art & Culture, Geography and Polity of Rajasthan",
+    "subcategories": [
+      {
+        "id": "culture",
+        "name": "Culture",
+        "label": "🎨 कला एवं संस्कृति (Culture)",
+        "icon": "🎨"
+      },
+      {
+        "id": "history",
+        "name": "History",
+        "label": "🏛️ राजस्थान का इतिहास (History)",
+        "icon": "🏛️"
+      },
+      {
+        "id": "geography",
+        "name": "Geography",
+        "label": "🗺️ राजस्थान का भूगोल (Geography)",
+        "icon": "🗺️"
+      },
+      {
+        "id": "polity",
+        "name": "Polity",
+        "label": "⚖️ राजव्यवस्था (Polity)",
+        "icon": "⚖️"
+      }
+    ],
+    "createdAt": "2026-08-27T00:00:00.000Z",
+    "updatedAt": "2026-08-27T00:00:00.000Z"
+  },
+  {
+    "id": "cat_1787825887631_5prv",
+    "name": "Science",
+    "icon": "📁",
+    "description": "",
+    "subcategories": [
+      {
+        "id": "sub_1787825923035_70hr",
+        "name": "biology",
+        "label": "📂 biology",
+        "icon": "📂"
+      }
+    ],
+    "createdAt": "2026-08-27T10:18:07.631Z",
+    "updatedAt": "2026-08-27T10:18:43.035Z"
+  }
+]

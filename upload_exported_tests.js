@@ -81,6 +81,8 @@ async function uploadExportedTests() {
   let skippedCount = 0;
 
   for (const test of raw) {
+    const testTitle = (test.title || "Rajasthan GK").trim();
+    const questions = test.questions || [];
     const rawCat = test.category || test.examCategory || "";
     let subcategory = "Culture";
     const combined = `${rawCat} ${testTitle}`.toLowerCase();

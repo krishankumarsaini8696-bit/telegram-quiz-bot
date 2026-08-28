@@ -4,7 +4,8 @@
   "description": "24/7 Automated Telegram Quiz Bot connected to Firebase Firestore",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
   "dependencies": {
     "firebase-admin": "^13.0.0"

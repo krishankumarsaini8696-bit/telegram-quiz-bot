@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chan_default",
+    "name": "Rajasthan CET 2026 (Main Channel)",
+    "chatId": "-1004340852837",
+    "botToken": "",
+    "enabled": true,
+    "type": "channel",
+    "createdAt": "2026-08-27T09:17:17.562Z",
+    "updatedAt": "2026-08-27T09:17:38.754Z"
+  },
+  {
+    "id": "chan_1787822671769",
+    "name": "RajQuiz: CET, VDO, RSSB AND RPSC EXAMS",
+    "chatId": "-1004393655775",
+    "botToken": "",
+    "enabled": true,
+    "type": "supergroup",
+    "updatedAt": "2026-08-27T16:06:25.948Z",
+    "createdAt": "2026-08-27T09:24:32.379Z"
+  },
+  {
+    "id": "chan_1787823522842",
+    "name": "Testing Channel",
+    "chatId": "-1003966893165",
+    "botToken": "",
+    "enabled": true,
+    "type": "channel",
+    "updatedAt": "2026-08-27T09:39:57.066Z",
+    "createdAt": "2026-08-27T09:38:43.439Z"
+  }
+]
